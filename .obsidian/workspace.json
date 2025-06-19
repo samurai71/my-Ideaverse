@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "424098be9ff6a656",
+    "type": "split",
+    "children": [
+      {
+        "id": "96a8942d34b98334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d79f6a14f0300813",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a14ab3af8f51b007",
+    "type": "split",
+    "children": [
+      {
+        "id": "15b81695b1bc35cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "590db3ceb2e18073",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "50562c4827453ba3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.5
+  },
+  "right": {
+    "id": "7c5e0f2c46210326",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aca8034b7d4020f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "315be3243a6e87b4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Efforts/Notes/My Newsletters/Hello, Old Friend (Example).md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hello, Old Friend (Example)"
+            }
+          },
+          {
+            "id": "9d64d0186849f6fa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "c6b2a5323f5b880c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9422d30ebe6daf42",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3b3302ccee1db177",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          },
+          {
+            "id": "94415bcc6c5eb80e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "periodic-notes:Open today's daily note": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "cmdr:Toggle stacked tabs": false,
+      "callout-manager:Insert Callout": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "d79f6a14f0300813",
+  "lastOpenFiles": [
+    "+/Untitled.md",
+    "x/+ About x.md",
+    "My IdeaVerse/Welcome.md",
+    "README.md",
+    "Efforts/Notes/My Newsletters/Hello, Old Friend (Example).md",
+    "+/🗞️ Newsletter (OE) (Example).md",
+    "Atlas/Maps/Add.md",
+    "+/Meetings Log.md",
+    "+/Make straight cuts first.md",
+    "+/My PKM Workflows - Global Guidelines.md",
+    "Home Basic.md",
+    "Ideaverse Map.md",
+    "Atlas/Dots/Things/Evergreen notes.md",
+    "Atlas/Dots/Statements/Evergreen notes are things or statements about things.md",
+    "Atlas/Dots/Things/On the process of note-making.md",
+    "Home.md",
+    "Ideaverse Lite - Release Notes.md",
+    "Atlas/Maps/Library.md",
+    "Atlas/Maps/Communicate.md",
+    "Atlas/Maps/Relate.md",
+    "Efforts/Ongoing/≡ƒæ¿≡ƒÅ╗ΓÇì≡ƒÅ½ LYT Workshops (OE) (Example).md",
+    "Calendar/Logs/Logs (Example).md",
+    "x/Images/CleanShot 2023-07-30 at 21.37.43.png",
+    "x/Excalidraw/excalibrain.md",
+    "Calendar/Notes/2025-03-15.md",
+    "Calendar/2024-09.md",
+    "Calendar/2020-06-01.md"
+  ]
+}
