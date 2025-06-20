@@ -1,0 +1,26 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+.chat-container {
+    height : 92%;
+	overflow : 'auto';
+	user-select : 'text';
+	padding : 10px;
+}
+.main-container {
+	height : 100%;
+	width : 100%;
+}
+.line-break {
+	padding : '5px';
+}
+.input-box {
+	width : 100%;
+	margin-top : 10px;
+}

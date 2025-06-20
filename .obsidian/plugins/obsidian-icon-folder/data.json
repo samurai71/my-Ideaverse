@@ -1,24 +1,26 @@
 {
   "settings": {
-    "migrated": 4,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "💡",
+      "🍳",
+      "📚",
+      "🎞",
+      "LiCheckSquare2",
+      "LiGithub",
+      "🕸",
+      "🌎",
+      "LiHome",
       "〰",
       "LiStopCircle",
       "LiWaves",
       "🌊",
       "🫧",
-      "🏜",
-      "🎒",
-      "💤",
-      "🔥",
-      "🍲",
-      "🌕",
-      "♻",
-      "🚀"
+      "🏜"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -35,10 +37,25 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
   "Efforts/Ongoing": "♻",
   "Efforts/On": "🔥",
   "Efforts/Simmering": "〰",
-  "Efforts/Sleeping": "💤"
+  "Efforts/Sleeping": "💤",
+  "Home.md": "LiHome",
+  "Atlas/Dots/Collections": "🌎",
+  "Atlas/Dots/Web Development": "🕸",
+  "Atlas/Dots/Web Development/Github": "LiGithub",
+  "Atlas/Dots/Web Development/Checklists": "LiCheckSquare2",
+  "Atlas/Dots/Collections/Movies": "🎞",
+  "Atlas/Dots/Collections/Books": "📚",
+  "Atlas/Dots/Collections/Recipes": "🍳",
+  "Atlas/Dots/Dev.to Blog/Articles": "LiWaves",
+  "Atlas/Dots/Dev.to Blog/Ideas": "💡"
 }
