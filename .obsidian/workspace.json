@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sources",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,6 +157,7 @@
                 }
               ]
             },
+            "pinned": true,
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -164,6 +165,7 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
+              "pinned": true,
               "icon": "links-going-out",
               "title": "Outgoing links from Home"
             }
@@ -242,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "6e098066bd1b1db8",
@@ -276,6 +278,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -295,13 +298,18 @@
       "homepage:Open homepage": false,
       "chatgpt-prompt:Show/Hide ChatGPT": false,
       "tv-tracker:Open TV Tracker": false,
-      "recipe-view:Toggle recipe view": false
+      "recipe-view:Toggle recipe view": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
     "Home.md",
+    "Atlas/Dots/Web Development/Github/Github Templates.md",
+    "+/My Medical.md",
+    "Efforts/Ongoing/≡ƒî╝ My Health (OE) (Example).md",
+    "+/Prominent People (kit).md",
+    "README.md",
     "Ideaverse Map.md",
     "Atlas/Dots/Statements/Our environment shapes us more than we realize.md",
     "Atlas/Dots/Things/Set Up Your Home Note.md",
@@ -326,16 +334,12 @@
     "Atlas/Dots/Sources/Obsidian Flight School.md",
     "Atlas/Dots/Sources/Ideaverse Pro.md",
     "+/My PKM Queries.md",
-    "+/I want to....md",
     "Atlas/Dots/Dev.to Blog/Articles",
     "Atlas/Dots/Dev.to Blog/Ideas",
     "Atlas/Dots/Dev.to Blog",
     "Atlas/Dots/Web Development/Policies",
     "Atlas/Dots/Web Development/Github",
     "Atlas/Dots/Web Development/Checklists",
-    "Atlas/Dots/Web Development/Github/Github Templates.md",
-    "Atlas/Maps/Papers.md",
-    "Atlas/Maps/Language MOC.md",
     "x/Images/CleanShot 2023-07-30 at 21.37.43.png"
   ]
 }

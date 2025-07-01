@@ -1,0 +1,17 @@
+{
+  "api_key": "",
+  "tags": [],
+  "path_to_prompt_template": [],
+  "chatgpt_behavior": "You are a helpful assistant.",
+  "convo_retention": 10,
+  "conversations": {},
+  "last_convo": {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant"
+      }
+    ],
+    "last_updated": 1751334825734
+  }
+}

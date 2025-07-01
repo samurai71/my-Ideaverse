@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⚕",
       "💡",
       "🍳",
       "📚",
@@ -19,8 +20,7 @@
       "LiStopCircle",
       "LiWaves",
       "🌊",
-      "🫧",
-      "🏜"
+      "🫧"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -31,14 +31,14 @@
       "left": 0
     },
     "iconInTabsEnabled": false,
-    "iconInTitleEnabled": false,
-    "iconInFrontmatterEnabled": false,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": true,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false,
-    "iconInTitlePosition": "above",
+    "iconInTitlePosition": "inline",
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "lucideIconPackType": "native",
@@ -48,7 +48,6 @@
   "Efforts/On": "🔥",
   "Efforts/Simmering": "〰",
   "Efforts/Sleeping": "💤",
-  "Home.md": "LiHome",
   "Atlas/Dots/Collections": "🌎",
   "Atlas/Dots/Web Development": "🕸",
   "Atlas/Dots/Web Development/Github": "LiGithub",
@@ -57,5 +56,6 @@
   "Atlas/Dots/Collections/Books": "📚",
   "Atlas/Dots/Collections/Recipes": "🍳",
   "Atlas/Dots/Dev.to Blog/Articles": "LiWaves",
-  "Atlas/Dots/Dev.to Blog/Ideas": "💡"
+  "Atlas/Dots/Dev.to Blog/Ideas": "💡",
+  "+/My Medical.md": "⚕"
 }

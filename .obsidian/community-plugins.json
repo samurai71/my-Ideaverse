@@ -41,5 +41,7 @@
   "chatgpt-prompt",
   "typing-speed",
   "tv-tracker",
-  "recipe-view"
+  "recipe-view",
+  "publish-to-dev",
+  "quickadd"
 ]

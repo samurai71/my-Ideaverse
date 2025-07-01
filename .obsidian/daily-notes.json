@@ -1,4 +1,5 @@
 {
   "folder": "Calendar",
-  "template": ""
+  "template": "",
+  "format": "MMMM-DD-YYYY"
 }

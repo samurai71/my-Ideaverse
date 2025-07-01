@@ -10,5 +10,8 @@
   "initialWidth": "400px",
   "showViewHeader": false,
   "imageZoom": true,
-  "hoverEmbeds": false
+  "hoverEmbeds": true,
+  "footnotes": "never",
+  "headings": "always",
+  "blocks": "never"
 }
