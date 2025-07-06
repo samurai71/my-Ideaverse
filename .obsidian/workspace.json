@@ -242,9 +242,28 @@
               "icon": "lucide-list",
               "title": "Outline of Home"
             }
+          },
+          {
+            "id": "38431f8750837ccd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "6e098066bd1b1db8",
@@ -306,6 +325,10 @@
   "lastOpenFiles": [
     "Home.md",
     "Atlas/Dots/Web Development/Github/Github Templates.md",
+    "Atlas/Dots/Web Development/Github/README md.md",
+    "Atlas/Dots/Web Development/Github/LICENSE MD.md",
+    "Clippings/Creating a default community health file.md",
+    "Clippings",
     "+/My Medical.md",
     "Efforts/Ongoing/≡ƒî╝ My Health (OE) (Example).md",
     "+/Prominent People (kit).md",
@@ -318,7 +341,6 @@
     "Atlas/Maps/Maps.md",
     "Ideaverse Lite - Release Notes.md",
     "Atlas/Dots/Web Development/Policies/Untitled.md",
-    "+/Untitled.md",
     "Atlas/Dots/Collections/Recipes",
     "Atlas/Dots/Collections/Movies",
     "Atlas/Dots/Collections/Books",
@@ -332,14 +354,11 @@
     "Atlas/Dots/Sources/The LYT Workshop.md",
     "Atlas/Dots/Sources/The Count of Monte Cristo.md",
     "Atlas/Dots/Sources/Obsidian Flight School.md",
-    "Atlas/Dots/Sources/Ideaverse Pro.md",
-    "+/My PKM Queries.md",
     "Atlas/Dots/Dev.to Blog/Articles",
     "Atlas/Dots/Dev.to Blog/Ideas",
     "Atlas/Dots/Dev.to Blog",
     "Atlas/Dots/Web Development/Policies",
     "Atlas/Dots/Web Development/Github",
-    "Atlas/Dots/Web Development/Checklists",
     "x/Images/CleanShot 2023-07-30 at 21.37.43.png"
   ]
 }

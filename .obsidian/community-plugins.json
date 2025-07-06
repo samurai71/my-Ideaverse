@@ -43,5 +43,11 @@
   "tv-tracker",
   "recipe-view",
   "publish-to-dev",
-  "quickadd"
+  "quickadd",
+  "obsidian-emoji-toolbar",
+  "obsidian-checklist-plugin",
+  "obsidian-banners",
+  "obsidian-enhancing-export",
+  "obsidian-plugin-toc",
+  "oz-clear-unused-images"
 ]
