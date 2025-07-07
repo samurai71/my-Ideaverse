@@ -40,8 +40,8 @@ Your launchpad and home base. That's here. That's **home**.
 
 ## Web Development
 
-[[Checklists]]
-[[Policies]]
+[[Checklist's Template]]
+[[Policy Templates]]
 [[Github Templates]]
 
 
