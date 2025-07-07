@@ -339,7 +339,6 @@
       "recipe-view:Toggle recipe view": false,
       "audio-recorder:Start/stop recording": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
