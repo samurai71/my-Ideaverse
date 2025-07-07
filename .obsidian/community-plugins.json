@@ -58,5 +58,10 @@
   "tag-word-cloud",
   "obsidian-textgenerator-plugin",
   "uncheck-all",
-  "widgets"
+  "widgets",
+  "insert-unsplash-image",
+  "obsidian-linter",
+  "janitor",
+  "beautitab",
+  "obsidian-media-db-plugin"
 ]

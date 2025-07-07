@@ -343,13 +343,73 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "widgets:Add widget": false
+      "widgets:Add widget": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false
     }
+  },
+  "floating": {
+    "id": "c2b95d9b569c4cdd",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dbef63fa2b39a41b",
+        "type": "window",
+        "children": [
+          {
+            "id": "c9f96ec57fc224d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "22420d52c2c93c72",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Get RSS Feed URL - Chrome Web Store",
+                      "icon": "globe-2",
+                      "state": "{\"state\":{\"url\":\"https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn\"},\"type\":\"webviewer\"}",
+                      "eState": "null"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://chromewebstore.google.com/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn",
+                    "title": "Get RSS Feed URL - Chrome Web Store",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Get RSS Feed URL - Chrome Web Store"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 32,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "+/Policies.md",
     "Home.md",
+    "+/I want to....md",
+    "+/Bookshelf 📚.md",
+    "+/3 Ways to Go Faster with Obsidian (Example).md",
+    "+/Web Accessibility Thoughts.md",
+    "+/Policies.md",
     "Atlas/Dots/Web Development/Github/README md.md",
     "Atlas/Dots/Web Development/Github/Github Templates.md",
     "Atlas/Dots/Web Development/Github/LICENSE MD.md",
@@ -370,11 +430,7 @@
     "Efforts/On/≡ƒæ¿≡ƒÅ╗ΓÇì≡ƒÅ½ UCLA Supercharge Course (E) (Example).md",
     "x/+ About x.md",
     "Ideaverse Map.md",
-    "Ideaverse Lite - Release Notes.md",
-    "Home Basic.md",
     "Clippings",
-    "Efforts/Ongoing/≡ƒî╝ My Health (OE) (Example).md",
-    "+/Prominent People (kit).md",
     "Atlas/Dots/Collections/Recipes",
     "Atlas/Dots/Collections/Movies",
     "Atlas/Dots/Collections/Books",
