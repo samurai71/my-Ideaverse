@@ -318,12 +318,15 @@
       "chatgpt-prompt:Show/Hide ChatGPT": false,
       "tv-tracker:Open TV Tracker": false,
       "recipe-view:Toggle recipe view": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home.md",
+    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
+    "Atlas/Dots/Web Development/Policies/Privacy Policy Template (PIFIDA).md",
     "Atlas/Dots/Web Development/Github/Github Templates.md",
     "Atlas/Dots/Web Development/Github/README md.md",
     "Atlas/Dots/Web Development/Github/LICENSE MD.md",
@@ -340,7 +343,6 @@
     "Calendar/Logs/Logs (Example).md",
     "Atlas/Maps/Maps.md",
     "Ideaverse Lite - Release Notes.md",
-    "Atlas/Dots/Web Development/Policies/Untitled.md",
     "Atlas/Dots/Collections/Recipes",
     "Atlas/Dots/Collections/Movies",
     "Atlas/Dots/Collections/Books",
@@ -353,7 +355,6 @@
     "Atlas/Dots/Sources/Writing Original Works.md",
     "Atlas/Dots/Sources/The LYT Workshop.md",
     "Atlas/Dots/Sources/The Count of Monte Cristo.md",
-    "Atlas/Dots/Sources/Obsidian Flight School.md",
     "Atlas/Dots/Dev.to Blog/Articles",
     "Atlas/Dots/Dev.to Blog/Ideas",
     "Atlas/Dots/Dev.to Blog",
