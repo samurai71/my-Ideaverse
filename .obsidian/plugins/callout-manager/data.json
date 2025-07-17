@@ -103,6 +103,27 @@
             "color": "233, 124, 238"
           }
         }
+      ],
+      "activity": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "233, 124, 238"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "233, 124, 238"
+          }
+        }
       ]
     }
   },

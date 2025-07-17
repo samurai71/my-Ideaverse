@@ -278,7 +278,7 @@
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],
   "filesToIgnore": [],
-  "linterLocale": "system-default",
+  "linterLocale": "en",
   "logLevel": "ERROR",
   "lintCommands": [],
   "customRegexes": [],

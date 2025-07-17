@@ -6,5 +6,5 @@
   "weeklyNoteFormat": "YYYY-MM-[w]ww",
   "weeklyNoteTemplate": "Template for Weekly Review",
   "weeklyNoteFolder": "Calendar/2023",
-  "localeOverride": "system-default"
+  "localeOverride": "en"
 }

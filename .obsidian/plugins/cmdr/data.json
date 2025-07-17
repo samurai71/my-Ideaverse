@@ -53,7 +53,10 @@
       "Open in Headings Mode",
       "BRAT",
       "Open today's daily note",
-      "Toggle stacked tabs"
+      "Toggle stacked tabs",
+      "New drawing",
+      "Open TV Tracker",
+      "Toggle recipe view"
     ]
   },
   "spacing": 8,

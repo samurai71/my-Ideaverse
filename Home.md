@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 in:
+banner: "![[pexels-rfera-2286895.jpg]]"
+banner_y: 0.50001
 ---
 
 Your launchpad and home base. That's here. That's **home**.
@@ -43,6 +45,8 @@ Your launchpad and home base. That's here. That's **home**.
 [[Checklist's Template]]
 [[Policy Templates]]
 [[Github Templates]]
+
+
 
 
 

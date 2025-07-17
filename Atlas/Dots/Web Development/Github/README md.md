@@ -6,7 +6,7 @@
   <!-- <a href="https://samplenext.netlify.app">Demo</a> -->
 <!-- </div> -->
 
-<h1 align="center">Sample Reacme</h1>
+<h1 align="center">Sample Readme</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/samurai71/sample-next?color=56BEB8">

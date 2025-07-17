@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "115f7e3a9a29dba2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 411.5,
+    "collapsed": true
   },
   "right": {
     "id": "7c5e0f2c46210326",
@@ -263,7 +264,30 @@
             }
           },
           {
-            "id": "109e7d97a59ada48",
+            "id": "58dde6cddb04e1ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Home.md"
+              },
+              "pinned": true,
+              "icon": "lucide-info",
+              "title": "File properties for Home"
+            }
+          },
+          {
+            "id": "a997cc1dda2ba374",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -282,7 +306,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "6e098066bd1b1db8",
@@ -320,7 +344,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
@@ -348,88 +371,40 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "floating": {
-    "id": "c2b95d9b569c4cdd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dbef63fa2b39a41b",
-        "type": "window",
-        "children": [
-          {
-            "id": "c9f96ec57fc224d4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "22420d52c2c93c72",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Get RSS Feed URL - Chrome Web Store",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://chromewebstore.google.com/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn",
-                    "title": "Get RSS Feed URL - Chrome Web Store",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Get RSS Feed URL - Chrome Web Store"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 32,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e7a7b303c61786dc",
+  "active": "115f7e3a9a29dba2",
   "lastOpenFiles": [
     "Home.md",
-    "+/I want to....md",
-    "+/Bookshelf 📚.md",
-    "+/3 Ways to Go Faster with Obsidian (Example).md",
-    "+/Web Accessibility Thoughts.md",
-    "+/Policies.md",
-    "Atlas/Dots/Web Development/Github/README md.md",
-    "Atlas/Dots/Web Development/Github/Github Templates.md",
-    "Atlas/Dots/Web Development/Github/LICENSE MD.md",
-    "Atlas/Maps/People Map.md",
-    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
-    "+/Checklists.md",
+    "x/Images/pexels-rfera-2286895.jpg",
     "Atlas/Dots/Web Development/Policies/Policy Templates.md",
     "Atlas/Dots/Web Development/Policies/Privacy Policy Template (PIFIDA).md",
-    "+/My Medical.md",
+    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
+    "+/Ideas.md",
+    "Atlas/Maps/Meta PKM.md",
     "+/+ About +.md",
-    "Atlas/Dots/Things/LYT Glossary.md",
-    "Calendar/2020-06-01.md",
-    "Clippings/Creating a default community health file.md",
-    "Efforts/Ongoing/≡ƒô╣ Videos (OE) (Example).md",
-    "Efforts/Ongoing/≡ƒÆ░ My Finance (OE) (Example).md",
-    "Efforts/Ongoing/≡ƒÆ╕ My Taxes 2023 (OE) (Example).md",
-    "Efforts/On/≡ƒæ¿≡ƒÅ╗ΓÇì≡ƒÅ½ LYT W12 Production (E) (Example).md",
-    "Efforts/On/≡ƒæ¿≡ƒÅ╗ΓÇì≡ƒÅ½ UCLA Supercharge Course (E) (Example).md",
-    "x/+ About x.md",
-    "Ideaverse Map.md",
+    "+/(S) Avid Agility.md",
+    "+/What is an ideaverse.md",
+    "+/Recipes.md",
+    "+/Countries I've Been To.md",
+    "+/Prominent People (kit).md",
+    "+/My PKM Workflows - Global Guidelines.md",
+    "+/My Medical.md",
+    "+/My Accounts.md",
+    "+/Meetings Log.md",
+    "+/Math MOC.md",
+    "+/Structure must be earned.md",
+    "+/Make straight cuts first.md",
+    "+/I want to....md",
+    "+/Genetics MOC.md",
+    "+/Figures MOC.md",
+    "+/Do you suffer from note-taking.md",
+    "+/Collective Intelligence MOC.md",
+    "+/Bookshelf 📚.md",
+    "x/Images/lyt-crafting-mocs-0.jpg",
+    "x/Images/stay-on-target.jpg",
+    "x/Images/flow-map.png",
+    "x/Images/feynman-triangulation-3.png",
+    "x/Images/feynman-triangulation-2.png",
+    "x/Images/feynman-triangulation-1.png",
     "Clippings",
     "Atlas/Dots/Collections/Recipes",
     "Atlas/Dots/Collections/Movies",

@@ -63,5 +63,6 @@
   "obsidian-linter",
   "janitor",
   "beautitab",
-  "obsidian-media-db-plugin"
+  "obsidian-media-db-plugin",
+  "obsidian-meta-bind-plugin"
 ]
