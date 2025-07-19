@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: wzafx-hratz
+created: 2025-07-19T03:54:25-04:00

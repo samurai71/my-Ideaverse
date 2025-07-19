@@ -64,5 +64,8 @@
   "janitor",
   "beautitab",
   "obsidian-media-db-plugin",
-  "obsidian-meta-bind-plugin"
+  "obsidian-meta-bind-plugin",
+  "omnisearch",
+  "editing-toolbar",
+  "obsidian-reading-time"
 ]

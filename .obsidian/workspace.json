@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "115f7e3a9a29dba2",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -28,7 +28,7 @@
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
+                  "collapseAll": true,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "right": {
     "id": "7c5e0f2c46210326",
@@ -368,22 +367,25 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "widgets:Add widget": false,
       "janitor:Janitor: scan vault": false,
-      "obsidian-media-db-plugin:Add new Media DB entry": false
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "115f7e3a9a29dba2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home.md",
-    "x/Images/pexels-rfera-2286895.jpg",
+    "+/Recipes.md",
+    "Atlas/Maps/Movies.md",
+    "Atlas/Dots/Web Development/Github/Github Templates.md",
     "Atlas/Dots/Web Development/Policies/Policy Templates.md",
-    "Atlas/Dots/Web Development/Policies/Privacy Policy Template (PIFIDA).md",
     "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
+    "x/Images/pexels-rfera-2286895.jpg",
+    "Atlas/Dots/Web Development/Policies/Privacy Policy Template (PIFIDA).md",
     "+/Ideas.md",
     "Atlas/Maps/Meta PKM.md",
     "+/+ About +.md",
     "+/(S) Avid Agility.md",
     "+/What is an ideaverse.md",
-    "+/Recipes.md",
     "+/Countries I've Been To.md",
     "+/Prominent People (kit).md",
     "+/My PKM Workflows - Global Guidelines.md",
@@ -398,7 +400,6 @@
     "+/Figures MOC.md",
     "+/Do you suffer from note-taking.md",
     "+/Collective Intelligence MOC.md",
-    "+/Bookshelf 📚.md",
     "x/Images/lyt-crafting-mocs-0.jpg",
     "x/Images/stay-on-target.jpg",
     "x/Images/flow-map.png",
