@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "57f1fa884077404a",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "c930822b75c79438",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"beautitab-react-view\",\"state\":{},\"title\":\"New tab\"}",
                   "eState": "{}"
                 }
               ]
@@ -28,7 +34,7 @@
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": true,
+                  "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -92,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#recipe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -305,7 +311,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       },
       {
         "id": "6e098066bd1b1db8",
@@ -371,35 +377,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c930822b75c79438",
   "lastOpenFiles": [
+    "README.md",
     "Home.md",
+    "x/Images/wolverine-tethered.jpg",
+    "+/+ About +.md",
     "+/Recipes.md",
     "Atlas/Maps/Movies.md",
+    "Atlas/Maps/Sources.md",
+    "Atlas/Maps/Books.md",
+    "Atlas/Dots/Things/Commonplace Book.md",
+    "+/Bookshelf 📚.md",
+    "+/Countries I've Been To.md",
+    "+/Do you suffer from note-taking.md",
+    "+/Make straight cuts first.md",
+    "+/My PKM Queries.md",
+    "+/Structure must be earned.md",
+    "+/My Medical.md",
+    "+/Meetings Log.md",
+    "+/Ideas.md",
+    "Clippings/Simple Beef Stroganoff.md",
+    "Clippings/Pico de Gallo.md",
+    "Clippings/No-Bake Tiramisu Cheesecake.md",
+    "Clippings/Sangria! Sangria!.md",
+    "Clippings/Ultimate Frozen Strawberry Margarita.md",
+    "Clippings/The REAL Long Island Iced Tea.md",
     "Atlas/Dots/Web Development/Github/Github Templates.md",
     "Atlas/Dots/Web Development/Policies/Policy Templates.md",
     "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
     "x/Images/pexels-rfera-2286895.jpg",
-    "Atlas/Dots/Web Development/Policies/Privacy Policy Template (PIFIDA).md",
-    "+/Ideas.md",
-    "Atlas/Maps/Meta PKM.md",
-    "+/+ About +.md",
-    "+/(S) Avid Agility.md",
-    "+/What is an ideaverse.md",
-    "+/Countries I've Been To.md",
-    "+/Prominent People (kit).md",
-    "+/My PKM Workflows - Global Guidelines.md",
-    "+/My Medical.md",
-    "+/My Accounts.md",
-    "+/Meetings Log.md",
-    "+/Math MOC.md",
-    "+/Structure must be earned.md",
-    "+/Make straight cuts first.md",
-    "+/I want to....md",
-    "+/Genetics MOC.md",
-    "+/Figures MOC.md",
-    "+/Do you suffer from note-taking.md",
-    "+/Collective Intelligence MOC.md",
     "x/Images/lyt-crafting-mocs-0.jpg",
     "x/Images/stay-on-target.jpg",
     "x/Images/flow-map.png",
