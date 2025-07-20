@@ -25,13 +25,6 @@
         "Alt"
       ],
       "key": "S"
-    },
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl"
-      ],
-      "key": "ArrowRight"
     }
   ],
   "workspaces:load": [],
@@ -101,15 +94,7 @@
       "key": "Backspace"
     }
   ],
-  "editor:open-link-in-new-leaf": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "Enter"
-    }
-  ],
+  "editor:open-link-in-new-leaf": [],
   "note-refactor-obsidian:app:extract-selection-first-line": [
     {
       "modifiers": [
@@ -230,15 +215,6 @@
       "key": "W"
     }
   ],
-  "file-explorer:reveal-active-file": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "I"
-    }
-  ],
   "pane-relief:go-last": [],
   "pane-relief:go-8th": [],
   "pane-relief:go-7th": [],
@@ -315,15 +291,6 @@
       "key": "N"
     }
   ],
-  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed": [
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl"
-      ],
-      "key": "J"
-    }
-  ],
   "obsidian-excalidraw-plugin:excalidraw-insert-transclusion": [
     {
       "modifiers": [
@@ -358,13 +325,6 @@
         "Alt"
       ],
       "key": "A"
-    },
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl"
-      ],
-      "key": "ArrowLeft"
     }
   ],
   "graph:open-local": [
@@ -510,24 +470,8 @@
     }
   ],
   "editor:rename-heading": [],
-  "workspace:previous-tab": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "["
-    }
-  ],
-  "workspace:next-tab": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "]"
-    }
-  ],
+  "workspace:previous-tab": [],
+  "workspace:next-tab": [],
   "pane-relief:go-next": [],
   "pane-relief:go-prev": [],
   "outline:open-for-current": [
@@ -687,12 +631,6 @@
         "Mod"
       ],
       "key": "P"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "K"
     }
   ],
   "hotkeysplus-obsidian:toggle-readable-length": [
@@ -702,14 +640,6 @@
         "Shift"
       ],
       "key": "\\"
-    }
-  ],
-  "workspace:toggle-stacked-tabs": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
     }
   ],
   "file-explorer:move-file": [

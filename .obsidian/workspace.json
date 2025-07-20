@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57f1fa884077404a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "c930822b75c79438",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -374,16 +374,25 @@
       "widgets:Add widget": false,
       "janitor:Janitor: scan vault": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c930822b75c79438",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
+    "Clippings/Pico de Gallo.md",
     "Home.md",
+    "Clippings/No-Bake Tiramisu Cheesecake.md",
+    "Clippings/Ultimate Frozen Strawberry Margarita.md",
+    "Clippings/The REAL Long Island Iced Tea.md",
+    "Clippings/Simple Beef Stroganoff.md",
+    "+/Brenda.md",
+    "Clippings/Sangria! Sangria!.md",
+    "+/Ideas.md",
+    "+/Recipes.md",
+    "README.md",
     "x/Images/wolverine-tethered.jpg",
     "+/+ About +.md",
-    "+/Recipes.md",
     "Atlas/Maps/Movies.md",
     "Atlas/Maps/Sources.md",
     "Atlas/Maps/Books.md",
@@ -396,16 +405,8 @@
     "+/Structure must be earned.md",
     "+/My Medical.md",
     "+/Meetings Log.md",
-    "+/Ideas.md",
-    "Clippings/Simple Beef Stroganoff.md",
-    "Clippings/Pico de Gallo.md",
-    "Clippings/No-Bake Tiramisu Cheesecake.md",
-    "Clippings/Sangria! Sangria!.md",
-    "Clippings/Ultimate Frozen Strawberry Margarita.md",
-    "Clippings/The REAL Long Island Iced Tea.md",
     "Atlas/Dots/Web Development/Github/Github Templates.md",
     "Atlas/Dots/Web Development/Policies/Policy Templates.md",
-    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
     "x/Images/pexels-rfera-2286895.jpg",
     "x/Images/lyt-crafting-mocs-0.jpg",
     "x/Images/stay-on-target.jpg",

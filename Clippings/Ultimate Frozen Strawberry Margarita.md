@@ -9,13 +9,7 @@ description: "A strawberry margarita is a refreshing cocktail for a hot summer d
 tags:
   - "clippings recipe"
 ---
-<video src="blob:https://www.allrecipes.com/0bd1bf89-1ebf-42b0-aec2-8617de132ff4"></video>
 
-00:19
-
-00:14
-
-00:33
 
 [28 ![high angle looking at two strawberry margaritas](https://www.allrecipes.com/thmb/ZQfENQt5aiAyxxGYYwWtTojaWc8=/160x90/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/24494-ultimate-frozen-strawberry-margarita-DDMFS-4x3-6dc3202d856048d48279029b64805331.jpg)](https://www.allrecipes.com/recipe/24494/ultimate-frozen-strawberry-margarita/#) [28 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9338639.jpg&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/24494/ultimate-frozen-strawberry-margarita/#) [28 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9249396.jpg&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/24494/ultimate-frozen-strawberry-margarita/#) [28 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9215485.jpg&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/24494/ultimate-frozen-strawberry-margarita/#) 
 

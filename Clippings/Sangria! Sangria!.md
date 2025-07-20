@@ -9,19 +9,15 @@ description: "This sangria recipe is easy to make with Spanish red wine, orange 
 tags:
   - "clippings recipe"
 ---
-<video src="blob:https://www.allrecipes.com/510ad990-5f8d-46e0-8b63-589bfb357ed4"></video>
+
 
 This drink definitely puts you in the mood for a party.
 
-01:04
 
-00:14
-
-01:18
 
 [93 ![high angle looking into two glasses of sangria with the rest in a pitcher behind](https://www.allrecipes.com/thmb/j9LN3RIWBHoltPHv3O4PhrgrcQ8=/160x90/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/72612-sangria-sangria-DDMFS-4x3-b410b37457d1457d87e5a15052ffa3f4.jpg)](https://www.allrecipes.com/recipe/72612/sangria-sangria/#) [93 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Febd66efdef758e94fc350d3f93fd1df4%2F1748037452223IMG_3119.jpeg&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/72612/sangria-sangria/#) [93 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Febd66efdef758e94fc350d3f93fd1df4%2F1732811695485IMG_1385.jpeg&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/72612/sangria-sangria/#) [93 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9284766.jpg&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/72612/sangria-sangria/#) 
 
-Prep Time:
+## Prep Time:
 
 15 mins
 
@@ -108,7 +104,6 @@ Original recipe (1X) yields 6 servings
 - 8 maraschino cherries
 - 2 cups carbonated water (Optional)
 
-Oops! We cannot find any ingredients on sale near you. Do we have the correct zip code?
 
 ## Directions
 
@@ -126,6 +121,5 @@ Oops! We cannot find any ingredients on sale near you. Do we have the correct zi
 
 You can use ginger ale instead of club soda if preferred.
 
-## Ask the Community
 
-Get recipe help and connect with the community
+

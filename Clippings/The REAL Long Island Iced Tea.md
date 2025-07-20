@@ -9,16 +9,7 @@ description: "Use this recipe to make the REAL Long Island iced tea cocktail. Ga
 tags:
   - "clippings recipe"
 ---
-Added to [Want to Try](https://www.myrecipes.com/favorites#/collection/50808213).  
-.
 
-<video src="blob:https://www.allrecipes.com/55c0b8ff-4a0c-4b1f-ba77-d99c65d35be6"></video>
-
-00:19
-
-00:17
-
-00:36
 
 [17 ![two tall glasses of long island ice teas garnished with mint and fresh lemon](https://www.allrecipes.com/thmb/qSC84qBpqVT7xEmI3M2W82r0QlE=/160x90/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/228491-The-Real-Long-Island-Iced-Tea-DDMFS-4x3-73f1aea4b2ec4470a3fe69d1e437f71c.jpg)](https://www.allrecipes.com/recipe/228491/the-real-long-island-iced-tea/#) [17 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe7c0ac6960e089781280e32811145491%2F1693669317786IMG_20230902_173609.jpg&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/228491/the-real-long-island-iced-tea/#) [17 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe7c0ac6960e089781280e32811145491%2F1685655922969image.jpg&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/228491/the-real-long-island-iced-tea/#) [17 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe7c0ac6960e089781280e32811145491%2F1670976606346image.jpg&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/228491/the-real-long-island-iced-tea/#) 
 
@@ -80,7 +71,6 @@ Original recipe (1X) yields 1 servings
 - 1 fluid ounce cola, or to taste
 - 1 lemon slice
 
-Oops! We cannot find any ingredients on sale near you. Do we have the correct zip code?
 
 ## Directions
 

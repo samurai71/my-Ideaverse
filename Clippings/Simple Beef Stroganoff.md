@@ -1,27 +1,20 @@
 ---
-title: "Simple Beef Stroganoff"
-source: "https://www.allrecipes.com/recipe/16311/simple-beef-stroganoff/"
+title: Simple Beef Stroganoff
+source: https://www.allrecipes.com/recipe/16311/simple-beef-stroganoff/
 author:
   - "[[Brenda]]"
 published: 2000-01-10
 created: 2025-07-19
-description: "This easy beef stroganoff recipe with ground beef is made rich and creamy with sour cream and mushroom soup and ready to serve in under 30 minutes."
+description: This easy beef stroganoff recipe with ground beef is made rich and creamy with sour cream and mushroom soup and ready to serve in under 30 minutes.
 tags:
-  - "clippings recipe"
+  - clippings
+  - recipe
 ---
-<video></video><video title="Advertisement" src="https://v.adsrvr.org/tfjrz4e/e7n55md/tmwhd0xb/1fbrzw7g_1_54.mp4"></video>
 
-This ad will end in 15
-
-00:15
-
-00:15
-
-00:30
 
 [111 ![close up view of beef stroganoff in a pan, next to a kitchen towel](https://www.allrecipes.com/thmb/v9K6c8KZveZd_QEzkmhJ78RRv_Q=/160x90/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/16311-simple-beef-stroganoff-DDMFS-4x3-1e966286eef54c0f96c882e569926eb3.jpg)](https://www.allrecipes.com/recipe/16311/simple-beef-stroganoff/#) [111 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2bdf1a9a96a01b99ffefc4f10feee063%2F1736898303453IMG_8888.jpeg&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/16311/simple-beef-stroganoff/#) [111 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2bdf1a9a96a01b99ffefc4f10feee063%2F171764973636717176497003798385211794017617915.jpg&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/16311/simple-beef-stroganoff/#) [111 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2bdf1a9a96a01b99ffefc4f10feee063%2F1713053897600image.jpg&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/16311/simple-beef-stroganoff/#) 
 
-Prep Time:
+## Prep Time:
 
 5 mins
 

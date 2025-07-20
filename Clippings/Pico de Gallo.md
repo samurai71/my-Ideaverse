@@ -9,15 +9,6 @@ description: "Pico de gallo is a fresh, flavor-packed Mexican salsa that's easy 
 tags:
   - "clippings recipe"
 ---
-<video src="blob:https://www.allrecipes.com/aa25f6fb-00ce-4282-b192-c24d2cee554d"></video>
-
-You can use red or white.
-
-00:33
-
-01:33
-
-02:06
 
 [158 ![a super close up overhead view of fresh pico de gallo in a white bowl, with chips on the side ](https://www.allrecipes.com/thmb/9Ojm8cZ-m-tswM1XaoaNGnGBlPc=/160x90/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/203800-pico-de-gallo-DDMFS-4x3-6432b824ddd04882b4e374e2d2294bfd.jpg)](https://www.allrecipes.com/recipe/203800/pico-de-gallo/#) [158 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F417efbd348e486ed9ae51ce89764c86d%2F1694938620291IMG_5549.JPG&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/203800/pico-de-gallo/#) [158 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F417efbd348e486ed9ae51ce89764c86d%2F166967345819120221011_195320.jpg&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/203800/pico-de-gallo/#) [158 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd7b93a66333e5094192193b549dc4411%2F16604324692022-08-1319.14.123100050831000125396.jpg&w=160&q=60&c=sc&poi=auto&orient=true&h=90)](https://www.allrecipes.com/recipe/203800/pico-de-gallo/#) 
 
@@ -138,6 +129,3 @@ For more intense flavor, I like to chill the salsa for up to 3 hours before serv
 
 <table><thead><tr><th colspan="2">Nutrition Facts</th></tr><tr><th colspan="2"><span>Servings Per Recipe</span> <span>12</span></th></tr><tr><th colspan="2"><span>Calories</span> <span>10</span></th></tr></thead><tbody><tr><td colspan="2">% Daily Value *</td></tr><tr><td><span>Total Fat</span> 0g</td><td>0%</td></tr><tr><td><span>Sodium</span> 15mg</td><td>1%</td></tr><tr><td><span>Total Carbohydrate</span> 2g</td><td>1%</td></tr><tr><td><span>Dietary Fiber</span> 1g</td><td>2%</td></tr><tr><td colspan="2"><span>Total Sugars</span> 1g</td></tr><tr><td><span>Protein</span> 0g</td><td>1%</td></tr><tr><td><span>Vitamin C</span> 6mg</td><td>6%</td></tr><tr><td><span>Calcium</span> 7mg</td><td>1%</td></tr><tr><td><span>Iron</span> 0mg</td><td>1%</td></tr><tr><td><span>Potassium</span> 91mg</td><td>2%</td></tr></tbody></table>
 
-## Ask the Community
-
-Get recipe help and connect with the community

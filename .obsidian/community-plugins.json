@@ -67,5 +67,6 @@
   "obsidian-meta-bind-plugin",
   "omnisearch",
   "editing-toolbar",
-  "obsidian-reading-time"
+  "obsidian-reading-time",
+  "obsidian-book-search-plugin"
 ]

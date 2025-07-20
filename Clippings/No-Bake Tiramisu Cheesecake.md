@@ -34,11 +34,6 @@ Servings:
 
 12
 
-### Save to MyRecipes
-
-Tap "Save" to keep this recipe in [MyRecipes](https://www.myrecipes.com/authentication/login?regSource=2xko48&isMyrecipes=true&utm_source=allrecipes&utm_medium=editorial), your new and upgraded digital recipe box for Allrecipes!
-
-Cook Mode (Keep screen awake)
 
 ## Ingredients
 
@@ -105,6 +100,3 @@ Original recipe (1X) yields 12 servings
 
 <table><thead><tr><th colspan="2">Nutrition Facts</th></tr><tr><th colspan="2"><span>Servings Per Recipe</span> <span>12</span></th></tr><tr><th colspan="2"><span>Calories</span> <span>651</span></th></tr></thead><tbody><tr><td colspan="2">% Daily Value *</td></tr><tr><td><span>Total Fat</span> 56g</td><td>72%</td></tr><tr><td><span>Saturated Fat</span> 31g</td><td>157%</td></tr><tr><td><span>Cholesterol</span> 165mg</td><td>55%</td></tr><tr><td><span>Sodium</span> 392mg</td><td>17%</td></tr><tr><td><span>Total Carbohydrate</span> 27g</td><td>10%</td></tr><tr><td><span>Dietary Fiber</span> 2g</td><td>6%</td></tr><tr><td colspan="2"><span>Total Sugars</span> 19g</td></tr><tr><td><span>Protein</span> 8g</td><td>17%</td></tr><tr><td><span>Vitamin C</span> 0mg</td><td>0%</td></tr><tr><td><span>Calcium</span> 127mg</td><td>10%</td></tr><tr><td><span>Iron</span> 1mg</td><td>6%</td></tr><tr><td><span>Potassium</span> 239mg</td><td>5%</td></tr></tbody></table>
 
-## Ask the Community
-
-Get recipe help and connect with the community
