@@ -22,3 +22,8 @@ actions:
 
 ```
 
+```dataview
+LIST
+FROM "Atlas/Dots/Collections/Recipes"
+Limit 10
+```
