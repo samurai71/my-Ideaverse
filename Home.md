@@ -28,7 +28,7 @@ Your launchpad and home base. That's here. That's **home**.
 
 [[Books]]
 [[Movies]]
-[[Recipes]]
+[[Recipes MOC]]
 [[People Map]]
 
 
