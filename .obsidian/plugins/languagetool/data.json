@@ -1,0 +1,19 @@
+{
+  "serverUrl": "https://api.languagetool.org",
+  "autoCheckDelay": 3000,
+  "shouldAutoCheck": true,
+  "languageVariety": {
+    "en": "en-CA",
+    "de": "de-DE",
+    "pt": "pt-PT",
+    "ca": "ca-ES"
+  },
+  "dictionary": [
+    "Plaster"
+  ],
+  "syncDictionary": false,
+  "remoteDictionary": [],
+  "pickyMode": false,
+  "synonyms": "en",
+  "motherTongue": "en"
+}

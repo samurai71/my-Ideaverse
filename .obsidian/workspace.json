@@ -39,7 +39,7 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#recipe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,6 +135,7 @@
                 }
               ]
             },
+            "pinned": true,
             "state": {
               "type": "backlink",
               "state": {
@@ -147,6 +148,7 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
+              "pinned": true,
               "icon": "links-coming-in",
               "title": "Backlinks for Home"
             }
@@ -290,28 +292,9 @@
               "icon": "lucide-info",
               "title": "File properties for Home"
             }
-          },
-          {
-            "id": "a997cc1dda2ba374",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "6e098066bd1b1db8",
@@ -345,6 +328,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "quickadd:QuickAdd": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -362,7 +346,6 @@
       "callout-manager:Insert Callout": false,
       "github-sync:Sync with Remote": false,
       "homepage:Open homepage": false,
-      "chatgpt-prompt:Show/Hide ChatGPT": false,
       "tv-tracker:Open TV Tracker": false,
       "recipe-view:Toggle recipe view": false,
       "audio-recorder:Start/stop recording": false,
@@ -376,37 +359,41 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false,
       "omnisearch:Omnisearch": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Clippings/A Zsh plugin that starts ssh-agent automatically.md",
+    "Untitled.canvas",
+    "Home.md",
+    "Atlas/Maps/Movies.md",
+    "Atlas/Maps/Books.md",
+    "+/Ideas.md",
+    "Atlas/Dots/Collections/Recipes/Sangria Sangria Recipe.md",
+    "Atlas/Dots/MOCs/Recipes MOC.md",
+    "Atlas/Dots/Collections/Recipes/Pico de Gallo Recipe.md",
+    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
+    "Atlas/Dots/MOCs/My Medical.md",
+    "Atlas/Dots/Medical Information/Medical Conditions.md",
+    "Atlas/Dots/Medical Information/Prescriptions.md",
+    "Atlas/Dots/Medical Information/Surgeries.md",
+    "Atlas/Dots/Medical Information/Allergies.md",
+    "+/Medical.base",
     "Clippings/Plugin for aliases and completions for pnpm package manager.md",
+    "Clippings/Dataview in Obsidian A Beginner's Guide.md",
+    "Atlas/Dots/Medical Information",
+    "Atlas/Maps/People Map.md",
+    "Clippings/A Zsh plugin that starts ssh-agent automatically.md",
     "Clippings/Meet Zap, a plugin manager.md",
     "Clippings/Glyph collections Font Awesome, Material Design Icons, Octicons, & more.md",
-    "Clippings/Dataview in Obsidian A Beginner's Guide.md",
-    "Home.md",
-    "Atlas/Dots/MOCs/Recipes MOC.md",
     "Atlas/Dots/MOCs",
-    "+/Untitled.md",
-    "Atlas/Dots/Collections/Recipes/Sangria Sangria Recipe.md",
     "Atlas/Dots/Sources/Writing Original Works.md",
-    "Atlas/Dots/Collections/Recipes/Pico de Gallo Recipe.md",
     "Clippings/Dataview in Obsidian A Beginner's Guide 1.md",
     "README.md",
     "Atlas/Dots/Collections/Recipes/Untitled.md",
     "+/Recipes.md",
     "Atlas/Dots/Sources/Sangria! Sangria!.md",
-    "Clippings/The REAL Long Island Iced Tea.md",
-    "+/Ideas.md",
-    "Atlas/Maps/Movies.md",
-    "Atlas/Dots/Sources/Pico de Gallo.md",
-    "x/Templates/Template, Recipe.md",
-    "Atlas/Dots/Sources/1984 (book).md",
-    "Atlas/Dots/Sources/+ About Sources.md",
-    "Clippings/No-Bake Tiramisu Cheesecake.md",
-    "Clippings/Ultimate Frozen Strawberry Margarita.md",
     "x/Images/wolverine-tethered.jpg",
     "x/Images/pexels-rfera-2286895.jpg",
     "x/Images/lyt-crafting-mocs-0.jpg",
@@ -422,8 +409,6 @@
     "Atlas/Dots/Collections",
     "Atlas/Dots/Dev.to Blog/Articles",
     "Atlas/Dots/Dev.to Blog/Ideas",
-    "Atlas/Dots/Dev.to Blog",
-    "Atlas/Dots/Web Development/Policies",
     "x/Images/CleanShot 2023-07-30 at 21.37.43.png"
   ]
 }

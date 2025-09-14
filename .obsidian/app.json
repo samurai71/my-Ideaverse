@@ -92,7 +92,7 @@
   "tabSize": 4,
   "communityPluginSortOrder": "download",
   "emacsyKeys": true,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "communityThemeSortOrder": "download",
   "autoPairMarkdown": true,
   "livePreview": true,

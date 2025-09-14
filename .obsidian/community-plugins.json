@@ -36,9 +36,6 @@
   "obsidian-smart-typography",
   "emoji-shortcodes",
   "obsidian-vault-statistics-plugin",
-  "obsidian-pandoc",
-  "obsidian-icons-plugin",
-  "chatgpt-prompt",
   "typing-speed",
   "tv-tracker",
   "recipe-view",
@@ -69,5 +66,8 @@
   "editing-toolbar",
   "obsidian-reading-time",
   "obsidian-book-search-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "data-cards",
+  "languagetool",
+  "obsidian-plugin-update-tracker"
 ]

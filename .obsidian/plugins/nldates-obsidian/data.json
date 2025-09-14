@@ -2,10 +2,10 @@
   "autosuggestToggleLink": false,
   "autocompleteTriggerPhrase": "",
   "isAutosuggestEnabled": false,
-  "format": "YYYY-MM-DD",
+  "format": "YYYY-MMMM-DD",
   "timeFormat": "HH:mm",
   "separator": " ",
-  "weekStart": "Sunday",
+  "weekStart": "monday",
   "modalToggleTime": false,
   "modalToggleLink": true,
   "modalMomentFormat": "YYYY-MM-DD"

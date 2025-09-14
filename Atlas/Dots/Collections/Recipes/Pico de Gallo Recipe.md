@@ -1,7 +1,9 @@
 ---
 created: 2025-07-22
-tags: 
-in: 
+tags:
+  - recipe
+in:
+  - Recipes
 title: Pico de Gallo Recipe
 description: Pico de gallo is a fresh, flavor-packed Mexican salsa that's easy to make with chopped ripe tomatoes, red onion, jalapeño, coriander, and lime juice.
 source: https://www.allrecipes.com/recipe/203800/pico-de-gallo/

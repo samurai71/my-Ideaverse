@@ -1,7 +1,10 @@
 ---
 created: 2025-07-22
-tags: 
-in: 
+tags:
+  - recipe
+  - drink
+in:
+  - Recipes
 title: Sangria! Sangria! Recipe
 description: This sangria recipe is easy to make with Spanish red wine, orange juice, brandy, and freshly chopped fruit for a super refreshing summer party drink.
 source: https://www.allrecipes.com/recipe/72612/sangria-sangria/

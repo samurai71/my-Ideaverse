@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.folder == "Atlas/Dots/Medical Information"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.path
+    sort:
+      - property: file.folder
+        direction: ASC
+  - type: cards
+    name: View
