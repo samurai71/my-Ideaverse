@@ -9,7 +9,9 @@
     "ca": "ca-ES"
   },
   "dictionary": [
-    "Plaster"
+    "Plaster",
+    "Acid",
+    "Reflux"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],

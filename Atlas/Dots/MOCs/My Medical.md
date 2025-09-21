@@ -11,18 +11,9 @@ date:
 ## Prescriptions
 ![[Prescriptions]]
 ## Medical Conditions
-```dataview
-LIST
-FROM "Atlas/Dots/Medical Information/Medical Conditions.md"
-```
-## Allergies
-```dataview
-LIST
-FROM "Atlas/Dots/Medical Information/Allergies"
 
-```
+![[Medical Conditions]]
+## Allergies
+![[Allergies]]
 ## Surgeries
-```dataview
-LIST
-FROM "Atlas/Dots/Medical Information/Surgeries"
-```
+![[Surgeries]]

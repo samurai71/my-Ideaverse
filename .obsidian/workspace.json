@@ -292,9 +292,28 @@
               "icon": "lucide-info",
               "title": "File properties for Home"
             }
+          },
+          {
+            "id": "8a7a43b848dc936e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       },
       {
         "id": "6e098066bd1b1db8",
@@ -365,35 +384,36 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "README.md",
     "Home.md",
-    "Atlas/Maps/Movies.md",
-    "Atlas/Maps/Books.md",
-    "+/Ideas.md",
-    "Atlas/Dots/Collections/Recipes/Sangria Sangria Recipe.md",
-    "Atlas/Dots/MOCs/Recipes MOC.md",
-    "Atlas/Dots/Collections/Recipes/Pico de Gallo Recipe.md",
-    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
+    "x/Templates/Template, Recipe.md",
+    "x/Templates/Template, Properties, Source (Kit).md",
+    "x/Templates/Template, Properties, Effort (Kit).md",
+    "x/Templates/Template, Properties, Dates Dates Dates (Kit).md",
+    "x/Templates/Template, Properties, Daily Note (Kit).md",
+    "x/Templates/Template, Properties, Base + In (Kit).md",
+    "x/Templates/Template, Properties, Base.md",
+    "x/Templates/Nick Milo's Custom Callouts.md",
     "Atlas/Dots/MOCs/My Medical.md",
-    "Atlas/Dots/Medical Information/Medical Conditions.md",
+    "Atlas/Dots/Web Development/Github/Github Templates.md",
+    "Atlas/Dots/Web Development/Github/README md.md",
+    "Atlas/Dots/Web Development/Github/LICENSE MD.md",
+    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
+    "Atlas/Dots/Web Development/Policies/Privacy Policy Template (PIFIDA).md",
+    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
+    "+/Ideas.md",
+    "Atlas/Dots/Collections/Recipes/Pico de Gallo Recipe.md",
+    "Atlas/Dots/MOCs/Recipes MOC.md",
+    "Atlas/Dots/Collections/Recipes/Sangria Sangria Recipe.md",
+    "Clippings/Dataview in Obsidian A Beginner's Guide.md",
+    "Atlas/Dots/Medical Information/Allergies.md",
     "Atlas/Dots/Medical Information/Prescriptions.md",
     "Atlas/Dots/Medical Information/Surgeries.md",
-    "Atlas/Dots/Medical Information/Allergies.md",
+    "Atlas/Dots/Medical Information/Medical Conditions.md",
     "+/Medical.base",
-    "Clippings/Plugin for aliases and completions for pnpm package manager.md",
-    "Clippings/Dataview in Obsidian A Beginner's Guide.md",
+    "Untitled.canvas",
     "Atlas/Dots/Medical Information",
-    "Atlas/Maps/People Map.md",
-    "Clippings/A Zsh plugin that starts ssh-agent automatically.md",
-    "Clippings/Meet Zap, a plugin manager.md",
-    "Clippings/Glyph collections Font Awesome, Material Design Icons, Octicons, & more.md",
     "Atlas/Dots/MOCs",
-    "Atlas/Dots/Sources/Writing Original Works.md",
-    "Clippings/Dataview in Obsidian A Beginner's Guide 1.md",
-    "README.md",
-    "Atlas/Dots/Collections/Recipes/Untitled.md",
-    "+/Recipes.md",
-    "Atlas/Dots/Sources/Sangria! Sangria!.md",
     "x/Images/wolverine-tethered.jpg",
     "x/Images/pexels-rfera-2286895.jpg",
     "x/Images/lyt-crafting-mocs-0.jpg",

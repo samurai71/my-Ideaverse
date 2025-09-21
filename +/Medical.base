@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder == "Atlas/Dots/Medical Information"
+    - file.tags == "Atlas/Dots/Medical Information"
 views:
   - type: table
     name: Table
