@@ -1,9 +1,12 @@
 filters:
   and:
-    - file.tags == "Atlas/Dots/Medical Information"
+    - file.hasLink("Atlas/Dots/Medical Information/Medical Conditions")
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - file.hasLink("Atlas/Dots/Medical Information/Medical Conditions")
     order:
       - file.name
       - file.path

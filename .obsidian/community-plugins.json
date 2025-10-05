@@ -69,5 +69,8 @@
   "templater-obsidian",
   "data-cards",
   "languagetool",
-  "obsidian-plugin-update-tracker"
+  "obsidian-plugin-update-tracker",
+  "obsidian-icons-plugin",
+  "obsidian-pandoc",
+  "chatgpt-prompt"
 ]

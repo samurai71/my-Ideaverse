@@ -311,9 +311,28 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "58767e133ee4dbf4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "6e098066bd1b1db8",
@@ -379,38 +398,39 @@
       "omnisearch:Omnisearch": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "templater-obsidian:Templater": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "chatgpt-prompt:Show/Hide ChatGPT": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
     "Home.md",
-    "x/Templates/Template, Recipe.md",
-    "x/Templates/Template, Properties, Source (Kit).md",
-    "x/Templates/Template, Properties, Effort (Kit).md",
-    "x/Templates/Template, Properties, Dates Dates Dates (Kit).md",
-    "x/Templates/Template, Properties, Daily Note (Kit).md",
-    "x/Templates/Template, Properties, Base + In (Kit).md",
-    "x/Templates/Template, Properties, Base.md",
-    "x/Templates/Nick Milo's Custom Callouts.md",
     "Atlas/Dots/MOCs/My Medical.md",
-    "Atlas/Dots/Web Development/Github/Github Templates.md",
-    "Atlas/Dots/Web Development/Github/README md.md",
-    "Atlas/Dots/Web Development/Github/LICENSE MD.md",
-    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
-    "Atlas/Dots/Web Development/Policies/Privacy Policy Template (PIFIDA).md",
-    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
-    "+/Ideas.md",
-    "Atlas/Dots/Collections/Recipes/Pico de Gallo Recipe.md",
-    "Atlas/Dots/MOCs/Recipes MOC.md",
-    "Atlas/Dots/Collections/Recipes/Sangria Sangria Recipe.md",
-    "Clippings/Dataview in Obsidian A Beginner's Guide.md",
-    "Atlas/Dots/Medical Information/Allergies.md",
-    "Atlas/Dots/Medical Information/Prescriptions.md",
-    "Atlas/Dots/Medical Information/Surgeries.md",
-    "Atlas/Dots/Medical Information/Medical Conditions.md",
     "+/Medical.base",
+    "+/Untitled.md",
+    "+/Ideas.md",
+    "Atlas/Dots/MOCs/Recipes MOC.md",
+    "Atlas/Maps/Movies.md",
+    "Atlas/Maps/Books.md",
+    "+/Meetings Log.md",
+    "+/My Accounts.md",
+    "+/What is an ideaverse.md",
+    "+/Web Accessibility Thoughts.md",
+    "Atlas/Maps/People Map.md",
+    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
+    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
+    "Atlas/Dots/Web Development/Github/Github Templates.md",
+    "Atlas/Dots/Collections/Recipes/Untitled.md",
+    "x/Templates/Template, Recipe.md",
+    "Atlas/Maps/Calendar.md",
+    "Atlas/Maps/Views.md",
+    "Atlas/Maps/Add.md",
+    "Atlas/Maps/Sources.md",
+    "Atlas/Dots/X/+ About these notes.md",
+    "Atlas/Dots/X/+ Start Here.md",
+    "Atlas/Dots/Sources/Pico de Gallo.md",
+    "Atlas/Dots/Collections/Recipes/Sangria Sangria Recipe.md",
+    "Atlas/Dots/Collections/Recipes/Pico de Gallo Recipe.md",
     "Untitled.canvas",
     "Atlas/Dots/Medical Information",
     "Atlas/Dots/MOCs",

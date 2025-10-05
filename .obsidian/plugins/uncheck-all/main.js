@@ -57,5 +57,3 @@ var MyPlugin = class extends import_obsidian.Plugin {
   onunload() {
   }
 };
-
-/* nosourcemap */

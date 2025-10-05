@@ -6323,5 +6323,3 @@ fraction.js/fraction.js:
    * Dual licensed under the MIT or GPL Version 2 licenses.
    **)
 */
-
-/* nosourcemap */

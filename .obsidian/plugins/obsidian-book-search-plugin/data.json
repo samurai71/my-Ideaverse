@@ -9,7 +9,7 @@
   "serviceProvider": "google",
   "naverClientId": "",
   "naverClientSecret": "",
-  "localePreference": "default",
+  "localePreference": "en-ca",
   "apiKey": "",
   "openPageOnCompletion": true,
   "showCoverImageInSearch": true,
