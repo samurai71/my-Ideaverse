@@ -1,14 +1,15 @@
 ---
 title: "empresslabs/pnpm.plugin.zsh: Plugin for aliases and completions for pnpm package manager."
-source: "https://github.com/empresslabs/pnpm.plugin.zsh"
+source: https://github.com/empresslabs/pnpm.plugin.zsh
 author:
   - "[[empresslabs]]"
   - "[[baliestri]]"
 published:
 created: 2025-07-27
-description: "Plugin for aliases and completions for pnpm package manager. - empresslabs/pnpm.plugin.zsh"
+description: Plugin for aliases and completions for pnpm package manager. - empresslabs/pnpm.plugin.zsh
 tags:
-  - "clippings"
+  - clippings
+  - source
 ---
 Plugin for aliases and completions for pnpm package manager.
 

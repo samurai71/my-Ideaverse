@@ -11,36 +11,16 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"pinned\":true,\"icon\":\"lucide-file\",\"title\":\"Home\"}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "pinned": true,
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "aa32581dce301db1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"beautitab-react-view\",\"state\":{},\"title\":\"New tab\"}",
                   "eState": "{}"
                 }
               ]
@@ -59,7 +39,7 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
@@ -68,8 +48,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -423,9 +402,17 @@
       "chatgpt-prompt:Show/Hide ChatGPT": false
     }
   },
-  "active": "aa32581dce301db1",
+  "active": "590db3ceb2e18073",
   "lastOpenFiles": [
+    "Atlas/Dots/Sources/zsh stuff/Glyph collections Font Awesome, Material Design Icons, Octicons, & more.md",
     "Home.md",
+    "Atlas/Dots/Sources/zsh stuff",
+    "Atlas/Dots/Sources/recipes",
+    "Clippings/Creating a default community health file.md",
+    "Atlas/Dots/Sources/zsh stuff/A Zsh plugin that starts ssh-agent automatically.md",
+    "Atlas/Dots/Sources/zsh stuff/Plugin for aliases and completions for pnpm package manager.md",
+    "Clippings/The Ideal LinkedIn Banner Size & Best Practices.md",
+    "Media DB/movies/Harry Potter and the Chamber of Secrets (2002).md",
     "x/Images/pexels-rfera-2286895.jpg",
     "x/Images/Unconfirmed 570428.crdownload",
     "x/Images/wolverine-tethered.jpg",
@@ -450,11 +437,6 @@
     "Atlas/Maps/Calendar.md",
     "Atlas/Maps/Views.md",
     "Atlas/Maps/Add.md",
-    "Atlas/Maps/Sources.md",
-    "Atlas/Dots/X/+ About these notes.md",
-    "Atlas/Dots/X/+ Start Here.md",
-    "Atlas/Dots/Sources/Pico de Gallo.md",
-    "Atlas/Dots/Collections/Recipes/Sangria Sangria Recipe.md",
     "Untitled.canvas",
     "Atlas/Dots/Medical Information",
     "Atlas/Dots/MOCs",
@@ -467,8 +449,6 @@
     "Atlas/Dots/Collections/Recipes",
     "Atlas/Dots/Collections/Movies",
     "Atlas/Dots/Collections/Books",
-    "Atlas/Dots/Collections",
-    "Atlas/Dots/Dev.to Blog/Articles",
     "x/Images/CleanShot 2023-07-30 at 21.37.43.png"
   ]
 }

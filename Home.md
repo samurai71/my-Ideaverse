@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 in:
 banner: "![[pexels-rfera-2286895.jpg]]"
-banner_y: 0.50001
+banner_y: 0.48388
 ---
 
 Your launchpad and home base. That's here. That's **home**.
