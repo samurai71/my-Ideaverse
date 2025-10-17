@@ -7,7 +7,7 @@ banner_y: 0.48388
 
 Your launchpad and home base. That's here. That's **home**.
 
- ## Recent Thoughts or Notes
+ # Recent Thoughts or Notes
 
 > [!activity]+ ## Added Stuff
 > This view looks at the 10 newest notes in your **+** folder. As you process each note: add a link, add details, move them to the best folder, and delete everything that no longer sparks ✨.

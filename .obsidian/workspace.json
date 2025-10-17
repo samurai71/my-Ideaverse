@@ -16,12 +16,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "New tab",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"beautitab-react-view\",\"state\":{},\"title\":\"New tab\"}",
-                  "eState": "{}"
                 }
               ]
             },
@@ -39,7 +33,7 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
@@ -107,6 +101,25 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "531dc30e0cf428ba",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
             }
           }
         ]
@@ -330,9 +343,28 @@
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
             }
+          },
+          {
+            "id": "512c51cbbe1ea447",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       },
       {
         "id": "6e098066bd1b1db8",
@@ -382,7 +414,6 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "cmdr:Toggle stacked tabs": false,
       "callout-manager:Insert Callout": false,
-      "github-sync:Sync with Remote": false,
       "homepage:Open homepage": false,
       "tv-tracker:Open TV Tracker": false,
       "recipe-view:Toggle recipe view": false,
@@ -399,56 +430,58 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "templater-obsidian:Templater": false,
       "markdown-importer:Open format converter": false,
-      "chatgpt-prompt:Show/Hide ChatGPT": false
+      "chatgpt-prompt:Show/Hide ChatGPT": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
   "active": "590db3ceb2e18073",
   "lastOpenFiles": [
-    "Atlas/Dots/Statements/ACE helps you with context switching.md",
-    "Atlas/Dots/Statements/ACE honors the 3 head spaces of PKM.md",
-    "Atlas/Dots/Statements/A deeper dive into how ACE works.md",
-    "Atlas/Dots/Sources/+ About Sources.md",
-    "+/+ About +.md",
-    "+/What is an ideaverse.md",
+    "x/Bases/Books.base",
+    "Atlas/Dots/Collections/Books/Harry Potter and the Sorcerer's Stone - J K Rowling.md",
+    "Harry Potter and the Sorcerer's Stone - J K Rowling.jpg",
+    "/Harry Potter and the Sorcerer's Stone - J K Rowling.jpg",
     "Home.md",
-    "+/My Accounts.md",
-    "+/Meetings Log.md",
+    "Atlas/Dots/MOCs/Books.md",
+    "README.md",
+    "+/Ideas.md",
+    "Atlas/Dots/MOCs/Recipes MOC.md",
+    "Atlas/Dots/Collections/Recipes/Pico de Gallo Recipe.md",
     "Atlas/Dots/MOCs/My Medical.md",
-    "Atlas/Dots/Sources/zsh stuff/Glyph collections Font Awesome, Material Design Icons, Octicons, & more.md",
+    "Atlas/Dots/Medical Information/Prescriptions.md",
+    "Atlas/Dots/MOCs/People.md",
+    "+/Web Accessibility Thoughts.md",
+    "x/Bases",
+    "x/Bases/Movies.base",
+    "Atlas/Dots/Collections/Movies/Harry Potter and the Sorcerer's Stone (2001).md",
+    "Atlas/Dots/Collections/Movies/Harry Potter and the Prisoner of Azkaban (2004).md",
+    "Atlas/Dots/Collections/Movies/Harry Potter and the Order of the Phoenix (2007).md",
+    "Atlas/Dots/Collections/Movies/Harry Potter and the Goblet of Fire (2005).md",
+    "Atlas/Dots/Collections/Movies/Harry Potter and the Deathly Hallows - Part 2 (2011).md",
+    "Atlas/Dots/Collections/Movies/Harry Potter and the Deathly Hallows - Part 1 (2010).md",
+    "Atlas/Dots/Collections/Movies/Harry Potter and the Chamber of Secrets (2002).md",
+    "Atlas/Dots/Collections/Movies/Edward Scissorhands (1990).md",
+    "Atlas/Dots/X/+ About Atlas.md",
+    "Atlas/Dots/X/+ Start Here.md",
+    "Atlas/Dots/X/+ About Dots.md",
+    "Atlas/Dots/X/+ About these notes.md",
+    "2025-11-08.md",
+    "Atlas/Dots/Collections/People",
+    "x/Images/pexels-rfera-2286895.jpg",
+    "x/Images/Harry Potter and the Sorcerer's Stone - J K Rowling.jpg",
+    "+/Medical.base",
     "Atlas/Dots/Sources/zsh stuff",
     "Atlas/Dots/Sources/recipes",
-    "Clippings/Creating a default community health file.md",
-    "Atlas/Dots/Sources/zsh stuff/A Zsh plugin that starts ssh-agent automatically.md",
-    "Atlas/Dots/Sources/zsh stuff/Plugin for aliases and completions for pnpm package manager.md",
-    "Clippings/The Ideal LinkedIn Banner Size & Best Practices.md",
-    "Media DB/movies/Harry Potter and the Chamber of Secrets (2002).md",
-    "x/Images/pexels-rfera-2286895.jpg",
     "x/Images/Unconfirmed 570428.crdownload",
     "x/Images/wolverine-tethered.jpg",
     "x/Images/feynman-triangulation-1.png",
-    "+/Medical.base",
-    "+/Untitled.md",
-    "+/Ideas.md",
-    "Atlas/Dots/MOCs/Recipes MOC.md",
-    "Atlas/Maps/Movies.md",
-    "Atlas/Maps/Books.md",
-    "+/Web Accessibility Thoughts.md",
-    "Atlas/Maps/People Map.md",
-    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
-    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
-    "Atlas/Dots/Web Development/Github/Github Templates.md",
     "Untitled.canvas",
     "Atlas/Dots/Medical Information",
     "Atlas/Dots/MOCs",
     "x/Images/lyt-crafting-mocs-0.jpg",
     "x/Images/stay-on-target.jpg",
     "x/Images/flow-map.png",
-    "x/Images/feynman-triangulation-3.png",
-    "x/Images/feynman-triangulation-2.png",
-    "Clippings",
-    "Atlas/Dots/Collections/Recipes",
-    "Atlas/Dots/Collections/Movies",
-    "Atlas/Dots/Collections/Books",
-    "x/Images/CleanShot 2023-07-30 at 21.37.43.png"
+    "x/Images/feynman-triangulation-3.png"
   ]
 }

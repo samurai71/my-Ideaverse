@@ -29,7 +29,6 @@
   "link-favicon",
   "obsidian42-brat",
   "obsidian-snippet-downloader",
-  "github-sync",
   "obsidian-icon-folder",
   "homepage",
   "better-word-count",
@@ -59,7 +58,6 @@
   "insert-unsplash-image",
   "obsidian-linter",
   "janitor",
-  "beautitab",
   "obsidian-media-db-plugin",
   "obsidian-meta-bind-plugin",
   "omnisearch",
@@ -72,5 +70,9 @@
   "obsidian-plugin-update-tracker",
   "obsidian-icons-plugin",
   "obsidian-pandoc",
-  "chatgpt-prompt"
+  "chatgpt-prompt",
+  "obsidian-git",
+  "obsidian-kanban",
+  "obsidian-tracker",
+  "notebook-navigator"
 ]

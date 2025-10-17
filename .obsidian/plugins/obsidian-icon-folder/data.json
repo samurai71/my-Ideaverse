@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🫂",
       "⚕",
       "💡",
       "🍳",
@@ -19,8 +20,7 @@
       "〰",
       "LiStopCircle",
       "LiWaves",
-      "🌊",
-      "🫧"
+      "🌊"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -58,5 +58,7 @@
   "Atlas/Dots/Dev.to Blog/Articles": "LiWaves",
   "Atlas/Dots/Dev.to Blog/Ideas": "💡",
   "Atlas/Dots/MOCs/My Medical.md": "⚕",
-  "Atlas/Dots/Medical Information": "⚕"
+  "Atlas/Dots/Medical Information": "⚕",
+  "Atlas/Dots/MOCs/People.md": "🫂",
+  "Atlas/Dots/Collections/People": "🫂"
 }

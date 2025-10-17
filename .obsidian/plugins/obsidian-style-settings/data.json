@@ -13,7 +13,7 @@
   "primary-ceciliamay@@tab-header-size": "tab-header__size-regular",
   "primary-ceciliamay@@header-size__preset": "header-size__original",
   "primary-ceciliamay@@no-md-activeline": true,
-  "pane-relief@@pane-relief-pane-numbering": false,
+  "pane-relief@@pane-relief-pane-numbering": true,
   "pane-relief@@pane-relief-disable-counts": false,
   "sanctum@@color-accent-rgb-l": "102, 153, 97",
   "sanctum@@light-mode-contrast-mode": "sanctum-default-light",

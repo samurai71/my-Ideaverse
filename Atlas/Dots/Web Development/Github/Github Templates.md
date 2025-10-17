@@ -1,7 +1,11 @@
 ---
 created: 2025-06-20
-related: 
+related:
+  - Web Development
+  - Github
 tags:
+up:
+  - "[[Home]]"
 ---
 [[LICENSE MD]]
 [[README md]]

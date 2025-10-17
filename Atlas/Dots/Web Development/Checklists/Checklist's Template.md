@@ -1,8 +1,10 @@
 ---
-up: []
+up:
+  - "[[Home]]"
 related: []
-year: 
-encountered: 
-tags: 
+year:
+encountered:
+tags:
 in:
+  - Web Development
 ---

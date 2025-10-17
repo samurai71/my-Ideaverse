@@ -7,6 +7,7 @@ related:
   - Prescriptions 
   - Surgeries
 date:
+tags:
 ---
 ## Prescriptions
 ![[Prescriptions]]

@@ -5,6 +5,7 @@ Callouts can bring clarity and a splash of joy to your Ideaverse. Please enjoy o
 
 > [!Globe] Globe
 
+
 > [!INDUSTRY]- Industry
 > For...ENT, Book, etc
 

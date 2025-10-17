@@ -1,0 +1,39 @@
+filters:
+  and:
+    - file.folder == "Atlas/Dots/Collections/Movies"
+views:
+  - type: cards
+    name: All Movies
+    order:
+      - title
+      - year
+      - writer
+      - genres
+      - duration
+      - director
+      - actors
+    sort:
+      - property: year
+        direction: ASC
+    image: note.image
+    imageFit: contain
+    cardSize: 210
+  - type: cards
+    name: Owned Movies
+    filters:
+      and:
+        - own == true
+    order:
+      - title
+      - year
+      - writer
+      - genres
+      - duration
+      - director
+      - actors
+    sort:
+      - property: year
+        direction: ASC
+    image: note.image
+    imageFit: contain
+    cardSize: 210

@@ -1,6 +1,11 @@
 ---
 up:
   - "[[Home]]"
+related:
+  - Recipes
+in:
+  - Collections
+  - Recipes
 ---
 ```meta-bind-button
 label: New Recipe

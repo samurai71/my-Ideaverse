@@ -6,7 +6,7 @@
     "URL": "text",
     "": "text",
     "URLs": "multitext",
-    "date": "date",
+    "date": "text",
     "top": "multitext",
     "related": "multitext",
     "down": "multitext",
@@ -46,6 +46,7 @@
     "lt-autoCheck": "checkbox",
     "lt-dictionary": "multitext",
     "lt-disabledRules": "multitext",
-    "lt-disabledCategories": "multitext"
+    "lt-disabledCategories": "multitext",
+    "own": "checkbox"
   }
 }

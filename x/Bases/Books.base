@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.folder == "Atlas/Dots/Collections/Books"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - author
+    image: note.image
+    imageFit: contain
+    cardSize: 180

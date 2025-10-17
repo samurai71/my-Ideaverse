@@ -1,3 +1,12 @@
+---
+in:
+  - Web Development
+up:
+  - "[[Home]]"
+related:
+  - Web Development
+  - Policies
+---
 <h2>Privacy Policy for [Your Website Name]</h2>
 
 <p>Last updated: [Date]</p>

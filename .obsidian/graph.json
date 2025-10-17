@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "path:Atlas/Notes/Ideas",
-      "color": {
-        "a": 1,
-        "rgb": 6084302
-      }
-    },
-    {
       "query": "path:Home.md  ",
       "color": {
         "a": 1,
@@ -32,13 +25,13 @@
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.32618607516944,
-  "lineSizeMultiplier": 0.517805642633229,
+  "nodeSizeMultiplier": 1.90240690677597,
+  "lineSizeMultiplier": 1.84771082235982,
   "collapse-forces": false,
   "centerStrength": 0.488777396355955,
   "repelStrength": 15.3578030102984,
   "linkStrength": 0.67318017780125,
   "linkDistance": 203,
-  "scale": 0.23179855607933184,
+  "scale": 0.3356288684751489,
   "close": true
 }
