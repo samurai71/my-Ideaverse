@@ -1,5 +1,5 @@
 {
-  "folder": "",
+  "folder": "Atlas/Dots/Collections/Books",
   "fileNameFormat": "",
   "frontmatter": "",
   "content": "",
@@ -15,6 +15,6 @@
   "showCoverImageInSearch": true,
   "enableCoverImageSave": true,
   "enableCoverImageEdgeCurl": true,
-  "coverImagePath": "",
+  "coverImagePath": "x/Images/bookCovers",
   "askForLocale": true
 }

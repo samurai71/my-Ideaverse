@@ -3,7 +3,21 @@ filters:
     - file.folder == "Atlas/Dots/Collections/Books"
 views:
   - type: cards
-    name: Card
+    name: All Books
+    order:
+      - file.name
+      - author
+      - description
+      - publishDate
+      - totalPage
+    image: note.localCoverImage
+    imageFit: contain
+    cardSize: 190
+  - type: cards
+    name: Books Owned
+    filters:
+      and:
+        - owned == true
     order:
       - file.name
       - author

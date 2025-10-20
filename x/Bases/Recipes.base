@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.folder == "Atlas/Dots/Collections/Recipes"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - description
+      - source
+      - tags
+    columnSize:
+      note.description: 178
+      note.source: 511

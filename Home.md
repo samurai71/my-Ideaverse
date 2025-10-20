@@ -24,7 +24,7 @@ Your launchpad and home base. That's here. That's **home**.
 > LIMIT 10
 > ```
 
-## Collections
+
 > [!activity]+ ## Collections
 >
 >

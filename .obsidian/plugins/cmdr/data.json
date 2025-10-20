@@ -30,8 +30,6 @@
     "leftRibbon": [
       "Obsidian42 - Text Transporter",
       "File Info Panel",
-      "Omnisearch",
-      "Create new book note",
       "Show a random prompt",
       "Open Symbols for the active editor",
       "Show Slide Preview",
@@ -56,7 +54,11 @@
       "Toggle stacked tabs",
       "New drawing",
       "Open TV Tracker",
-      "Toggle recipe view"
+      "Toggle recipe view",
+      "Open Leaflet Map",
+      "Notebook Navigator",
+      "Create new book note",
+      "Omnisearch"
     ]
   },
   "spacing": 8,

@@ -15,5 +15,6 @@ link: https://books.google.com/books/about/Harry_Potter_and_the_Order_of_the_Pho
 previewLink: http://books.google.ca/books?id=MmjaGwAACAAJ&dq=Harry+Potter&hl=&as_pt=BOOKS&cd=6&source=gbs_api
 isbn10: 747569606
 isbn13: 9780747569602
-localCoverImage: /x/Images/Harry Potter and the Order of the Phoenix - J K Rowling.jpg
+localCoverImage: /x/Images/bookCovers/Harry Potter and the Order of the Phoenix - J K Rowling.jpg
+owned: true
 ---
