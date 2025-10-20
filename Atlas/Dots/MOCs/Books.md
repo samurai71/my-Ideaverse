@@ -4,5 +4,7 @@ up:
 tags:
 in:
   - Collections
+  - Books
 ---
 # Books I own
+![[Books.base]]

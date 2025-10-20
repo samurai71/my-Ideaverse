@@ -2,15 +2,14 @@ filters:
   and:
     - file.folder == "Atlas/Dots/Collections/Books"
 views:
-  - type: table
-    name: Table
-    order:
-      - file.name
   - type: cards
-    name: View
+    name: Card
     order:
       - file.name
       - author
-    image: note.image
+      - description
+      - publishDate
+      - totalPage
+    image: note.localCoverImage
     imageFit: contain
-    cardSize: 180
+    cardSize: 190

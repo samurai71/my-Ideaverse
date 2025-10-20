@@ -25,12 +25,13 @@ Your launchpad and home base. That's here. That's **home**.
 > ```
 
 ## Collections
-
-[[Books]]
-[[Movies]]
-[[Recipes MOC]]
-[[People Map]]
-
+> [!activity]+ ## Collections
+>
+>
+> [[Books]]
+>  [[Movies]] 
+>  [[Recipes MOC]] 
+>  [[People]]
 
 ## Dev.to Blog
 

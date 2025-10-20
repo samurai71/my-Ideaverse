@@ -326,25 +326,6 @@
             }
           },
           {
-            "id": "58767e133ee4dbf4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
             "id": "512c51cbbe1ea447",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -362,9 +343,28 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b14aa39dbbae88f7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
         "id": "6e098066bd1b1db8",
@@ -436,37 +436,41 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "590db3ceb2e18073",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Atlas/Dots/Web Development/Github/Github Templates.md",
+    "Home.md",
+    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
+    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
+    "Atlas/Dots/MOCs/Movies.md",
+    "x/Bases/Movies.base",
+    "Atlas/Dots/Collections/Movies/Smokey and the Bandit II (1980).md",
+    "Atlas/Dots/Collections/Movies/Smokey and the Bandit (1977).md",
+    "Atlas/Dots/Collections/Movies/Smokey and the Bandit Part 3 (1983).md",
+    "Atlas/Dots/MOCs/People.md",
+    "Atlas/Dots/MOCs/Recipes MOC.md",
+    "Atlas/Dots/MOCs/Books.md",
+    "+/Ideas.md",
+    "x/Templates/Template, Movie.md",
+    "Atlas/Dots/Collections/Movies/Blade II (2002).md",
+    "Atlas/Dots/Collections/Movies/Blade (1998).md",
+    "Atlas/Dots/Collections/Movies/Blade - Trinity (2004).md",
+    "Atlas/Dots/Collections/Movies/Edward Scissorhands (1990).md",
     "x/Bases/Books.base",
+    "Atlas/Dots/Collections/Books/Harry Potter and the Order of the Phoenix - J K Rowling.md",
+    "x/Images/Harry Potter and the Order of the Phoenix - J K Rowling.jpg",
+    "/Harry Potter and the Order of the Phoenix - J K Rowling.jpg",
     "Atlas/Dots/Collections/Books/Harry Potter and the Sorcerer's Stone - J K Rowling.md",
+    "Atlas/Dots/Collections/Movies/Star Wars - Episode IV - A New Hope (1977).md",
+    "Atlas/Dots/Collections/Movies/Star Wars - Episode IX - The Rise of Skywalker (2019).md",
+    "Atlas/Dots/Collections/Movies/Star Wars - Episode VIII - The Last Jedi (2017).md",
+    "Atlas/Dots/Collections/Movies/Rogue One - A Star Wars Story (2016).md",
+    "Atlas/Dots/Collections/Movies/Star Wars - Episode VII - The Force Awakens (2015).md",
+    "Atlas/Dots/Collections/Movies/Star Wars - Episode III - Revenge of the Sith (2005).md",
+    "Atlas/Dots/Collections/Movies/Star Wars - Episode II - Attack of the Clones (2002).md",
     "Harry Potter and the Sorcerer's Stone - J K Rowling.jpg",
     "/Harry Potter and the Sorcerer's Stone - J K Rowling.jpg",
-    "Home.md",
-    "Atlas/Dots/MOCs/Books.md",
-    "README.md",
-    "+/Ideas.md",
-    "Atlas/Dots/MOCs/Recipes MOC.md",
-    "Atlas/Dots/Collections/Recipes/Pico de Gallo Recipe.md",
-    "Atlas/Dots/MOCs/My Medical.md",
-    "Atlas/Dots/Medical Information/Prescriptions.md",
-    "Atlas/Dots/MOCs/People.md",
-    "+/Web Accessibility Thoughts.md",
     "x/Bases",
-    "x/Bases/Movies.base",
-    "Atlas/Dots/Collections/Movies/Harry Potter and the Sorcerer's Stone (2001).md",
-    "Atlas/Dots/Collections/Movies/Harry Potter and the Prisoner of Azkaban (2004).md",
-    "Atlas/Dots/Collections/Movies/Harry Potter and the Order of the Phoenix (2007).md",
-    "Atlas/Dots/Collections/Movies/Harry Potter and the Goblet of Fire (2005).md",
-    "Atlas/Dots/Collections/Movies/Harry Potter and the Deathly Hallows - Part 2 (2011).md",
-    "Atlas/Dots/Collections/Movies/Harry Potter and the Deathly Hallows - Part 1 (2010).md",
-    "Atlas/Dots/Collections/Movies/Harry Potter and the Chamber of Secrets (2002).md",
-    "Atlas/Dots/Collections/Movies/Edward Scissorhands (1990).md",
-    "Atlas/Dots/X/+ About Atlas.md",
-    "Atlas/Dots/X/+ Start Here.md",
-    "Atlas/Dots/X/+ About Dots.md",
-    "Atlas/Dots/X/+ About these notes.md",
-    "2025-11-08.md",
     "Atlas/Dots/Collections/People",
     "x/Images/pexels-rfera-2286895.jpg",
     "x/Images/Harry Potter and the Sorcerer's Stone - J K Rowling.jpg",
@@ -480,8 +484,6 @@
     "Atlas/Dots/Medical Information",
     "Atlas/Dots/MOCs",
     "x/Images/lyt-crafting-mocs-0.jpg",
-    "x/Images/stay-on-target.jpg",
-    "x/Images/flow-map.png",
-    "x/Images/feynman-triangulation-3.png"
+    "x/Images/stay-on-target.jpg"
   ]
 }

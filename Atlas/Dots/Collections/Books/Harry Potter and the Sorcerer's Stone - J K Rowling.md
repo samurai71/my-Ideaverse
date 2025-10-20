@@ -1,11 +1,11 @@
 ---
 title: Harry Potter and the Sorcerer's Stone
-subtitle: 
+subtitle:
 author: J. K. Rowling
 authors: J. K. Rowling
 category: England
 categories: England
-publisher: 
+publisher:
 publishDate: 1997
 totalPage: 309
 coverUrl: http://books.google.com/books/content?id=mSwvswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
@@ -15,5 +15,5 @@ link: https://books.google.com/books/about/Harry_Potter_and_the_Sorcerer_s_Stone
 previewLink: http://books.google.ca/books?id=mSwvswEACAAJ&dq=Harry+Porter&hl=&as_pt=BOOKS&cd=1&source=gbs_api
 isbn10: 1484465474
 isbn13: 9781484465479
-localCoverImage: /Harry Potter and the Sorcerer's Stone - J K Rowling.jpg
+localCoverImage: x/Images/Harry Potter and the Sorcerer's Stone - J K Rowling.jpg
 ---

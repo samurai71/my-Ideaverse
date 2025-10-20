@@ -244,11 +244,12 @@
   "fileIcons": {},
   "fileColors": {},
   "folderIcons": {},
-  "folderColors": {},
-  "folderBackgroundColors": {
+  "folderColors": {
     "Atlas": "#3b82f6",
-    "Calendar": "#10b981"
+    "Calendar": "#10b981",
+    "Efforts": "#a855f7"
   },
+  "folderBackgroundColors": {},
   "folderSortOverrides": {},
   "folderAppearances": {},
   "tagIcons": {},
@@ -260,6 +261,6 @@
   "lastShownVersion": "",
   "latestKnownRelease": "1.5.5",
   "lastAnnouncedRelease": "",
-  "lastReleaseCheckAt": 1760695435033,
+  "lastReleaseCheckAt": 1760952650425,
   "rootFolderOrder": []
 }
