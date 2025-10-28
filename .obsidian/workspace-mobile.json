@@ -34,33 +34,7 @@
             }
           },
           {
-            "id": "0b4efe8eaddda4db",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "18e6a0f2c1a88911",
+            "id": "df9ea5bd7794b481",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,11 +252,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "18e6a0f2c1a88911",
+  "active": "df9ea5bd7794b481",
   "lastOpenFiles": [
     "Home.md",
-    "Atlas/Dots/MOCs/Books.md",
     "Atlas/Dots/MOCs/Movies.md",
+    "Atlas/Dots/Collections/Books/Eragon; Eldest - Christopher Paolini.md",
+    "Atlas/Dots/MOCs/Books.md",
     "Atlas/Dots/Collections/Recipes/Recipes MOC.md",
     "Atlas/Dots/Collections/Recipes/Pico de Gallo Recipe.md",
     "Atlas/Dots/Collections/Recipes/Sangria Sangria Recipe.md",
