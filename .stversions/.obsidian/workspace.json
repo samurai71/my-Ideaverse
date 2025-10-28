@@ -1,0 +1,487 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a14ab3af8f51b007",
+    "type": "split",
+    "children": [
+      {
+        "id": "15b81695b1bc35cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "590db3ceb2e18073",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "50562c4827453ba3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "531dc30e0cf428ba",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.5
+  },
+  "right": {
+    "id": "7c5e0f2c46210326",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aca8034b7d4020f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "315be3243a6e87b4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "pinned": true,
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "9d64d0186849f6fa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "pinned": true,
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "c6b2a5323f5b880c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9422d30ebe6daf42",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3b3302ccee1db177",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "pinned": true,
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          },
+          {
+            "id": "38431f8750837ccd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "58dde6cddb04e1ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Home.md"
+              },
+              "pinned": true,
+              "icon": "lucide-info",
+              "title": "File properties for Home"
+            }
+          },
+          {
+            "id": "8a7a43b848dc936e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "512c51cbbe1ea447",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "b14aa39dbbae88f7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 8
+      },
+      {
+        "id": "6e098066bd1b1db8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94415bcc6c5eb80e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "quickadd:QuickAdd": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "periodic-notes:Open today's daily note": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "cmdr:Toggle stacked tabs": false,
+      "callout-manager:Insert Callout": false,
+      "homepage:Open homepage": false,
+      "recipe-view:Toggle recipe view": false,
+      "audio-recorder:Start/stop recording": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "widgets:Add widget": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false,
+      "chatgpt-prompt:Show/Hide ChatGPT": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "+/Ideas.md",
+    "Home.md",
+    "Atlas/Dots/MOCs/People.md",
+    "Atlas/Dots/MOCs/Recipes MOC.md",
+    "Atlas/Dots/Collections/Recipes/No-Bake Tiramisu Cheesecake.md",
+    "Atlas/Dots/MOCs/Movies.md",
+    "x/Bases/Movies.base",
+    "Atlas/Dots/MOCs/Books.md",
+    "x/Bases/Books.base",
+    "Atlas/Dots/Collections/Books/Inheritance - Christopher Paolini.md",
+    "x/Images/bookCovers/Inheritance - Christopher Paolini.jpg",
+    "+/Untitled.base",
+    "Atlas/Dots/Collections/Books/Brisingr - Christopher Paolini.md",
+    "x/Images/bookCovers/Brisingr - Christopher Paolini.jpg",
+    "Atlas/Dots/Collections/Books/Eragon; Eldest - Christopher Paolini.md",
+    "x/Images/bookCovers/Eragon; Eldest - Christopher Paolini.jpg",
+    "Atlas/Dots/Collections/Books/Eragon - Christopher Paolini.md",
+    "x/Images/bookCovers/Eragon - Christopher Paolini.jpg",
+    "Atlas/Dots/Collections/Books/Harry Potter and the Deathly Hallows - JK Rowling.md",
+    "+/Web Accessibility Thoughts.md",
+    "x/Bases/Recipes.base",
+    "Atlas/Dots/Collections/Books/Harry Potter and the Half-Blood Prince - J K Rowling.md",
+    "Atlas/Dots/Collections/Books/Harry Potter and the Order of the Phoenix - J K Rowling.md",
+    "Atlas/Dots/Collections/Books/Harry Potter and the Prisoner of Azkaban - J K Rowling.md",
+    "Atlas/Dots/Collections/Books/Harry Potter and the Sorcerer's Stone - J K Rowling.md",
+    "x/Images/bookCovers/Harry Potter and the Sorcerer's Stone - J K Rowling.jpg",
+    "x/Images/bookCovers/Harry Potter and the Prisoner of Azkaban - J K Rowling.jpg",
+    "x/Images/bookCovers/Harry Potter and the Order of the Phoenix - J K Rowling.jpg",
+    "x/Images/bookCovers",
+    "x/Images/bookCovers/Harry Potter and the Deathly Hallows - JK Rowling.jpg",
+    "/Harry Potter and the Deathly Hallows - JK Rowling.jpg",
+    "/Harry Potter and the Prisoner of Azkaban - J K Rowling.jpg",
+    "Atlas/Dots/Collections/Movies/Transformers (2007).md",
+    "Atlas/Dots/Collections/Movies/Transformers - Dark of the Moon (2011).md",
+    "Atlas/Dots/Collections/Movies/Transformers - Revenge of the Fallen (2009).md",
+    "Atlas/Dots/Collections/Movies/Transformers - Age of Extinction (2014).md",
+    "Atlas/Dots/Collections/Movies/Transformers - The Last Knight (2017).md",
+    "Eragon - Christopher Paolini.md",
+    "Atlas/Dots/Web Development/Github/README md.md",
+    "Atlas/Dots/Web Development/Github/Github Templates.md",
+    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
+    "x/Bases/PROJECTS.base",
+    "x/Bases",
+    "Atlas/Dots/Collections/People",
+    "+/Medical.base",
+    "Atlas/Dots/Sources/zsh stuff",
+    "Untitled.canvas"
+  ]
+}
