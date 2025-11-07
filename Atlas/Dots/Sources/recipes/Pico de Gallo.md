@@ -1,13 +1,15 @@
 ---
-title: "Pico de Gallo"
-source: "https://www.allrecipes.com/recipe/203800/pico-de-gallo/"
+title: Pico de Gallo
+source: https://www.allrecipes.com/recipe/203800/pico-de-gallo/
 author:
   - "[[Rachel Love]]"
 published: 2020-06-12
 created: 2025-07-19
-description: "Pico de gallo is a fresh, flavor-packed Mexican salsa that's easy to make with chopped ripe tomatoes, red onion, jalapeño, coriander, and lime juice."
+description: Pico de gallo is a fresh, flavor-packed Mexican salsa that's easy to make with chopped ripe tomatoes, red onion, jalapeño, coriander, and lime juice.
 tags:
-  - "clippings recipe"
+  - clippings
+  - source
+  - recipe
 ---
 
 > [!NOTE] Title

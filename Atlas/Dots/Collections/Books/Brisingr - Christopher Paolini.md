@@ -17,4 +17,7 @@ isbn13: 9780375826740
 isbn10: 375826742
 localCoverImage: x/Images/bookCovers/Brisingr - Christopher Paolini.jpg
 owned: true
+in:
+  - Collections
+  - Books
 ---

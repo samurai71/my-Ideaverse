@@ -57,8 +57,20 @@
       "Toggle recipe view",
       "Open Leaflet Map",
       "Notebook Navigator",
-      "Create new book note",
-      "Omnisearch"
+      "Omnisearch",
+      "Open mini calendar",
+      "Open advanced calendar",
+      "Open task list",
+      "Open notes",
+      "Open agenda",
+      "Open kanban board",
+      "Open pomodoro",
+      "Open pomodoro stats",
+      "Create new task",
+      "Clear Unused Images",
+      "Add widget",
+      "Janitor: scan vault",
+      "Create new board"
     ]
   },
   "spacing": 8,

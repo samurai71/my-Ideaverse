@@ -1,1 +1,5 @@
+---
+up:
+  - "[[Home]]"
+---
 ![[Movies.base]]

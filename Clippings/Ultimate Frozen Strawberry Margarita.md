@@ -1,13 +1,15 @@
 ---
-title: "Ultimate Frozen Strawberry Margarita"
-source: "https://www.allrecipes.com/recipe/24494/ultimate-frozen-strawberry-margarita/"
+title: Ultimate Frozen Strawberry Margarita
+source: https://www.allrecipes.com/recipe/24494/ultimate-frozen-strawberry-margarita/
 author:
   - "[[JTWTECH]]"
 published: 2019-02-19
 created: 2025-07-19
-description: "A strawberry margarita is a refreshing cocktail for a hot summer day. Ready in minutes, this one's made with frozen berries and limeade concentrate."
+description: A strawberry margarita is a refreshing cocktail for a hot summer day. Ready in minutes, this one's made with frozen berries and limeade concentrate.
 tags:
-  - "clippings recipe"
+  - clippings
+  - recipe
+  - drink
 ---
 
 

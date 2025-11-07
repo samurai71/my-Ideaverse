@@ -1,13 +1,15 @@
 ---
-title: "Sangria! Sangria!"
-source: "https://www.allrecipes.com/recipe/72612/sangria-sangria/"
+title: Sangria! Sangria!
+source: https://www.allrecipes.com/recipe/72612/sangria-sangria/
 author:
   - "[[HJACOBY]]"
 published: 2020-06-18
 created: 2025-07-19
-description: "This sangria recipe is easy to make with Spanish red wine, orange juice, brandy, and freshly chopped fruit for a super refreshing summer party drink."
+description: This sangria recipe is easy to make with Spanish red wine, orange juice, brandy, and freshly chopped fruit for a super refreshing summer party drink.
 tags:
-  - "clippings recipe"
+  - clippings
+  - source
+  - recipe
 ---
 
 

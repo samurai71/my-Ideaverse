@@ -17,4 +17,7 @@ isbn10: 747546290
 isbn13: 9780747546290
 localCoverImage: x/Images/bookCovers/Harry Potter and the Prisoner of Azkaban - J K Rowling.jpg
 owned: true
+in:
+  - Collections
+  - Books
 ---

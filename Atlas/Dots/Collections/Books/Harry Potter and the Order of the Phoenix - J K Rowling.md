@@ -17,4 +17,7 @@ isbn10: 747569606
 isbn13: 9780747569602
 localCoverImage: /x/Images/bookCovers/Harry Potter and the Order of the Phoenix - J K Rowling.jpg
 owned: true
+in:
+  - Collections
+  - Books
 ---

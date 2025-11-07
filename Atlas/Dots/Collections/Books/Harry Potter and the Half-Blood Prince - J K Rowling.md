@@ -17,4 +17,7 @@ isbn10: 1338299190
 isbn13: 9781338299199
 localCoverImage: x/Images/bookCovers/Harry Potter and the Half-Blood Prince - J K Rowling.jpg
 owned: true
+in:
+  - Collections
+  - Books
 ---

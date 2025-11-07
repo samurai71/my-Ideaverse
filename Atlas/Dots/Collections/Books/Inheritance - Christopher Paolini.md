@@ -17,4 +17,7 @@ isbn13: 9780739372487
 isbn10: 739372483
 localCoverImage: x/Images/bookCovers/Inheritance - Christopher Paolini.jpg
 owned: true
+in:
+  - Collections
+  - Books
 ---

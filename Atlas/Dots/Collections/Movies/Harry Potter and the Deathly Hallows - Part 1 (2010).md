@@ -36,4 +36,7 @@ tags:
   - mediaDB/tv/movie
   - own
 own: true
+in:
+  - Collections
+  - Movies
 ---

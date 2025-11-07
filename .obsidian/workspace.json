@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#mediaDB/tv/movie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,6 +120,25 @@
               "state": {},
               "icon": "notebook",
               "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "bc0cae89c5d28a9c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -234,8 +253,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
             }
           },
           {
@@ -345,7 +364,21 @@
             }
           },
           {
-            "id": "b14aa39dbbae88f7",
+            "id": "c6bc7c8ca8b1b9fc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e2a2c71dc05d23d7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -398,6 +431,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open notes": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
       "bases:Create new base": false,
       "quickadd:QuickAdd": false,
       "switcher:Open quick switcher": false,
@@ -405,8 +448,6 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false,
       "periodic-notes:Open today's daily note": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
@@ -416,7 +457,6 @@
       "callout-manager:Insert Callout": false,
       "homepage:Open homepage": false,
       "recipe-view:Toggle recipe view": false,
-      "audio-recorder:Start/stop recording": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
@@ -427,40 +467,50 @@
       "omnisearch:Omnisearch": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "templater-obsidian:Templater": false,
-      "markdown-importer:Open format converter": false,
       "chatgpt-prompt:Show/Hide ChatGPT": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "notebook-navigator:Notebook Navigator": false
+      "notebook-navigator:Notebook Navigator": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "590db3ceb2e18073",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "+/Ideas.md",
+    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
     "Home.md",
-    "Atlas/Dots/MOCs/People.md",
-    "Atlas/Dots/MOCs/Recipes MOC.md",
-    "Atlas/Dots/Collections/Recipes/No-Bake Tiramisu Cheesecake.md",
-    "Atlas/Dots/MOCs/Movies.md",
-    "x/Bases/Movies.base",
     "Atlas/Dots/MOCs/Books.md",
-    "x/Bases/Books.base",
-    "Atlas/Dots/Collections/Books/Inheritance - Christopher Paolini.md",
-    "x/Images/bookCovers/Inheritance - Christopher Paolini.jpg",
-    "+/Untitled.base",
-    "Atlas/Dots/Collections/Books/Brisingr - Christopher Paolini.md",
-    "x/Images/bookCovers/Brisingr - Christopher Paolini.jpg",
-    "Atlas/Dots/Collections/Books/Eragon; Eldest - Christopher Paolini.md",
-    "x/Images/bookCovers/Eragon; Eldest - Christopher Paolini.jpg",
-    "Atlas/Dots/Collections/Books/Eragon - Christopher Paolini.md",
-    "x/Images/bookCovers/Eragon - Christopher Paolini.jpg",
-    "Atlas/Dots/Collections/Books/Harry Potter and the Deathly Hallows - JK Rowling.md",
+    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
+    "x/Templates/Template, Movie.md",
     "+/Web Accessibility Thoughts.md",
+    "x/Templates/Template, Recipe.md",
+    "Atlas/Dots/Collections/Recipes/No-Bake Tiramisu Cheesecake.md",
+    "x/Templates/Template, Properties, Source (Kit).md",
+    "x/Templates/Template, Properties, Dates Dates Dates (Kit).md",
+    "x/Templates/Nick Milo's Custom Callouts.md",
+    "x/Templates/Template, Properties, Daily Note (Kit).md",
     "x/Bases/Recipes.base",
+    "Clippings/The Ideal LinkedIn Banner Size & Best Practices.md",
+    "Clippings/Simple Beef Stroganoff.md",
+    "Clippings/Dataview in Obsidian A Beginner's Guide.md",
+    "Clippings/Creating a default community health file.md",
+    "Atlas/Dots/Collections/Books/Harry Potter and the Prisoner of Azkaban - J K Rowling.md",
+    "Clippings/Ultimate Frozen Strawberry Margarita.md",
+    "Atlas/Dots/Collections/Books/Brisingr - Christopher Paolini.md",
+    "Clippings/The REAL Long Island Iced Tea.md",
     "Atlas/Dots/Collections/Books/Harry Potter and the Half-Blood Prince - J K Rowling.md",
     "Atlas/Dots/Collections/Books/Harry Potter and the Order of the Phoenix - J K Rowling.md",
-    "Atlas/Dots/Collections/Books/Harry Potter and the Prisoner of Azkaban - J K Rowling.md",
-    "Atlas/Dots/Collections/Books/Harry Potter and the Sorcerer's Stone - J K Rowling.md",
+    "Atlas/Dots/Collections/Books/Inheritance - Christopher Paolini.md",
+    "Atlas/Dots/Collections/Books/Eragon; Eldest - Christopher Paolini.md",
+    "Atlas/Dots/Sources/recipes/Sangria! Sangria!.md",
+    "Atlas/Dots/Sources/recipes/Pico de Gallo.md",
+    "x/Bases/Movies.base",
+    "x/Bases/Books.base",
+    "x/Images/bookCovers/Inheritance - Christopher Paolini.jpg",
+    "+/Untitled.base",
+    "x/Images/bookCovers/Brisingr - Christopher Paolini.jpg",
+    "x/Images/bookCovers/Eragon; Eldest - Christopher Paolini.jpg",
+    "x/Images/bookCovers/Eragon - Christopher Paolini.jpg",
     "x/Images/bookCovers/Harry Potter and the Sorcerer's Stone - J K Rowling.jpg",
     "x/Images/bookCovers/Harry Potter and the Prisoner of Azkaban - J K Rowling.jpg",
     "x/Images/bookCovers/Harry Potter and the Order of the Phoenix - J K Rowling.jpg",
@@ -468,15 +518,6 @@
     "x/Images/bookCovers/Harry Potter and the Deathly Hallows - JK Rowling.jpg",
     "/Harry Potter and the Deathly Hallows - JK Rowling.jpg",
     "/Harry Potter and the Prisoner of Azkaban - J K Rowling.jpg",
-    "Atlas/Dots/Collections/Movies/Transformers (2007).md",
-    "Atlas/Dots/Collections/Movies/Transformers - Dark of the Moon (2011).md",
-    "Atlas/Dots/Collections/Movies/Transformers - Revenge of the Fallen (2009).md",
-    "Atlas/Dots/Collections/Movies/Transformers - Age of Extinction (2014).md",
-    "Atlas/Dots/Collections/Movies/Transformers - The Last Knight (2017).md",
-    "Eragon - Christopher Paolini.md",
-    "Atlas/Dots/Web Development/Github/README md.md",
-    "Atlas/Dots/Web Development/Github/Github Templates.md",
-    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
     "x/Bases/PROJECTS.base",
     "x/Bases",
     "Atlas/Dots/Collections/People",

@@ -1,12 +1,13 @@
 ---
-title: "Meet Zap, a plugin manager"
-source: "https://www.zapzsh.com/"
+title: Meet Zap, a plugin manager
+source: https://www.zapzsh.com/
 author:
 published:
 created: 2025-07-27
-description: "Zap is a minimal plugin manager for zsh"
+description: Zap is a minimal plugin manager for zsh
 tags:
-  - "clippings"
+  - clippings
+  - source
 ---
 ## To get Zapped click below
 

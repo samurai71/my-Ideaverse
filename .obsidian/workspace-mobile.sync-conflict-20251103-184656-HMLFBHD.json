@@ -1,21 +1,21 @@
 {
   "main": {
-    "id": "eeafd37b6ff765a3",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "4f88020e23495151",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "1b8c6b5500ef926c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -39,11 +39,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a3f152b4425bc99f",
+    "id": "6da1400fe3d93c31",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b8c6d9f877aa2cb8",
+        "id": "2a1686f6ec5dd506",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -56,7 +56,7 @@
         }
       },
       {
-        "id": "1571b0a6be3a439e",
+        "id": "4f9ef953ed46af69",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -73,7 +73,7 @@
         }
       },
       {
-        "id": "8dead68f48a637c3",
+        "id": "9becdbd9929683cb",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -88,28 +88,33 @@
         }
       },
       {
-        "id": "591d961f91a87c55",
+        "id": "754f769aa0cc859f",
         "type": "leaf",
         "state": {
-          "type": "bookmarks",
-          "state": {},
-          "icon": "lucide-bookmark",
-          "title": "Bookmarks"
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "7851e29a17e44244",
+    "id": "2cfe9885ea0a0616",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "89cd1eb0f4d106fd",
+        "id": "c1243f75884df12d",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,11 +128,12 @@
         }
       },
       {
-        "id": "3f457bb4e0c56e95",
+        "id": "2cc3968dc67f016e",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -136,11 +142,12 @@
         }
       },
       {
-        "id": "82d8b4a4f8215b4a",
+        "id": "1e1625f38b37528a",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "Home.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -150,7 +157,7 @@
         }
       },
       {
-        "id": "6873e007fbc3e179",
+        "id": "14a8d587a5a795a3",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -160,7 +167,7 @@
         }
       },
       {
-        "id": "53e4344bb15a2ab8",
+        "id": "ffe3a5ea58c9cd43",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -168,21 +175,69 @@
           "icon": "lucide-ghost",
           "title": "todo"
         }
+      },
+      {
+        "id": "867b7df561edb6ab",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "periodic-notes:Open today's daily note": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "cmdr:Toggle stacked tabs": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian42-brat:BRAT": false,
+      "homepage:Open homepage": false,
+      "recipe-view:Toggle recipe view": false,
+      "quickadd:QuickAdd": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "widgets:Add widget": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "1b8c6b5500ef926c",
-  "lastOpenFiles": []
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Atlas/Dots/MOCs/My Medical.md",
+    "Home.md",
+    "Atlas/Dots/Collections/Recipes/Pico de Gallo Recipe.md",
+    "Atlas/Dots/MOCs/Recipes MOC.md",
+    "Atlas/Dots/MOCs/Movies.md",
+    "Atlas/Dots/MOCs/Books.md",
+    "Atlas/Dots/Collections/Books/Eragon; Eldest - Christopher Paolini.md",
+    "Atlas/Dots/Collections/Recipes/Recipes MOC.md",
+    "Atlas/Dots/Collections/Recipes/Sangria Sangria Recipe.md",
+    "Clippings/Creating a default community health file.md"
+  ]
 }
