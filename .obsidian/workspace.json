@@ -366,6 +366,15 @@
           {
             "id": "c6bc7c8ca8b1b9fc",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "all-properties",
               "state": {
@@ -475,11 +484,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "590db3ceb2e18073",
   "lastOpenFiles": [
-    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
+    "Atlas/Dots/MOCs/My Medical.md",
+    "Atlas/Dots/Medical Information/Prescriptions.md",
     "Home.md",
+    "x/Bases/Books.base",
     "Atlas/Dots/MOCs/Books.md",
+    "Atlas/Dots/Collections/Books/Harry Potter and the Deathly Hallows - JK Rowling.md",
+    "Atlas/Dots/Collections/Books/Eragon - Christopher Paolini.md",
+    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
     "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
     "x/Templates/Template, Movie.md",
     "+/Web Accessibility Thoughts.md",
@@ -500,12 +514,7 @@
     "Clippings/The REAL Long Island Iced Tea.md",
     "Atlas/Dots/Collections/Books/Harry Potter and the Half-Blood Prince - J K Rowling.md",
     "Atlas/Dots/Collections/Books/Harry Potter and the Order of the Phoenix - J K Rowling.md",
-    "Atlas/Dots/Collections/Books/Inheritance - Christopher Paolini.md",
-    "Atlas/Dots/Collections/Books/Eragon; Eldest - Christopher Paolini.md",
-    "Atlas/Dots/Sources/recipes/Sangria! Sangria!.md",
-    "Atlas/Dots/Sources/recipes/Pico de Gallo.md",
     "x/Bases/Movies.base",
-    "x/Bases/Books.base",
     "x/Images/bookCovers/Inheritance - Christopher Paolini.jpg",
     "+/Untitled.base",
     "x/Images/bookCovers/Brisingr - Christopher Paolini.jpg",
