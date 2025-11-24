@@ -1,13 +1,14 @@
 ---
-title: "The REAL Long Island Iced Tea"
-source: "https://www.allrecipes.com/recipe/228491/the-real-long-island-iced-tea/"
+title: The REAL Long Island Iced Tea
+source: https://www.allrecipes.com/recipe/228491/the-real-long-island-iced-tea/
 author:
   - "[[Sledge]]"
 published: 2019-06-05
 created: 2025-07-19
-description: "Use this recipe to make the REAL Long Island iced tea cocktail. Garnish with a slice of lemon before taking a refreshing sip."
+description: Use this recipe to make the REAL Long Island iced tea cocktail. Garnish with a slice of lemon before taking a refreshing sip.
 tags:
-  - "clippings recipe"
+  - recipe
+  - drink
 ---
 
 

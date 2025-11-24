@@ -9,6 +9,7 @@ description: This no-bake tiramisu cheesecake tastes rich and creamy with layers
 tags:
   - clippings
   - recipe
+  - source
 ---
 ![Slice of tiramisu cheesecake on a plate](https://www.allrecipes.com/thmb/xIlpSVt6G_-LTdllRa4jP_VlAp8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/11748557-No-Bake-Tiramisu-Cheesecake-ddmfs-beauty-4x3-d685861b0ce84408af8256ffcecfe754.jpg)
 

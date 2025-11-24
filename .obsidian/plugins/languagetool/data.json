@@ -9,9 +9,21 @@
     "ca": "ca-ES"
   },
   "dictionary": [
+    "'git",
+    "-abort'",
+    "-decorate",
+    "abbrev-ref",
     "Acid",
+    "dc",
+    "dcb",
+    "dcu",
+    "merge",
+    "nomerge",
+    "oneline",
     "Plaster",
-    "Reflux"
+    "recurse-submodules",
+    "Reflux",
+    "shortcuts"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],

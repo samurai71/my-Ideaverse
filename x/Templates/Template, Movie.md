@@ -23,5 +23,7 @@ watched:
 lastWatched:
 personalRating:
 own:
+up:
+  - "[[Home]]"
 ---
 ## Notes on Movie

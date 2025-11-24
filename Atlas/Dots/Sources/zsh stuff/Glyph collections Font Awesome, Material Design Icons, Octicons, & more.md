@@ -1,6 +1,6 @@
 ---
 title: "ryanoasis/nerd-fonts: Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more"
-source: "https://github.com/ryanoasis/nerd-fonts"
+source: https://github.com/ryanoasis/nerd-fonts
 author:
   - "[[ryanoasis]]"
   - "[[Finii]]"
@@ -8,7 +8,8 @@ published:
 created: 2025-07-27
 description: "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more - ryanoasis/nerd-fonts"
 tags:
-  - "clippings"
+  - clippings
+  - source
 ---
 Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 

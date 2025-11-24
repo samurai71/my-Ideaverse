@@ -382,8 +382,13 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
+<<<<<<< HEAD
               "icon": "lucide-ghost",
               "title": "all-properties"
+=======
+              "icon": "lucide-archive",
+              "title": "All properties"
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
             }
           },
           {
@@ -444,6 +449,10 @@
       "tasknotes:Open mini calendar": false,
       "tasknotes:Open advanced calendar": false,
       "tasknotes:Open task list": false,
+<<<<<<< HEAD
+=======
+      "tasknotes:Open notes": false,
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
       "tasknotes:Open agenda": false,
       "tasknotes:Open kanban board": false,
       "tasknotes:Open pomodoro": false,
@@ -465,7 +474,6 @@
       "callout-manager:Insert Callout": false,
       "homepage:Open homepage": false,
       "recipe-view:Toggle recipe view": false,
-      "audio-recorder:Start/stop recording": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
@@ -480,6 +488,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "notebook-navigator:Notebook Navigator": false,
+<<<<<<< HEAD
       "remotely-secure:Remotely Sync": false
     }
   },
@@ -525,6 +534,47 @@
     "Atlas/Dots/MOCs/Movies.md",
     "Atlas/Dots/Collections/Movies/Smokey and the Bandit (1977).md",
     "x/Images/bookCovers/Inheritance - Christopher Paolini.jpg",
+=======
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "+/PNPM shortcuts for my setup with a plugin.md",
+    "Home.md",
+    "+/ZSH Shortcuts for my setup.md",
+    "Clippings/empresslabspnpm.plugin.zsh Plugin for aliases and completions for pnpm package manager 1.md",
+    "Clippings/empresslabspnpm.plugin.zsh Plugin for aliases and completions for pnpm package manager.md",
+    "Atlas/Dots/MOCs/My Medical.md",
+    "Atlas/Dots/MOCs/People.md",
+    "Clippings/Creating a default community health file.md",
+    "Clippings/The Ideal LinkedIn Banner Size & Best Practices.md",
+    "Clippings/Simple Beef Stroganoff.md",
+    "+/Web Accessibility Thoughts.md",
+    "+/Ideas.md",
+    "README.md",
+    "Atlas/Dots/MOCs/Recipes MOC.md",
+    "Atlas/Dots/Collections/Recipes/Pico de Gallo Recipe.md",
+    "Atlas/Dots/Collections/Recipes/No-Bake Tiramisu Cheesecake.md",
+    "Atlas/Dots/Collections/Recipes/Sangria Sangria Recipe.md",
+    "Atlas/Dots/MOCs/Movies.md",
+    "x/Bases/Movies.base",
+    "Atlas/Dots/Medical Information/Medical Conditions.md",
+    "x/Bases/My Medical.base",
+    "Atlas/Dots/Medical Information/Allergies.md",
+    "x/Bases/Books.base",
+    "Atlas/Dots/Medical Information/Surgeries.md",
+    "Atlas/Dots/Medical Information/Prescriptions.md",
+    "Atlas/Dots/Medical Information/Medical.base",
+    "Atlas/Dots/MOCs/Books.md",
+    "Atlas/Dots/Collections/Books/Harry Potter and the Deathly Hallows - JK Rowling.md",
+    "Atlas/Dots/Collections/Books/Eragon - Christopher Paolini.md",
+    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
+    "x/Bases/Recipes.base",
+    "x/Images/bookCovers/Inheritance - Christopher Paolini.jpg",
+    "+/Untitled.base",
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
     "x/Images/bookCovers/Brisingr - Christopher Paolini.jpg",
     "x/Images/bookCovers/Eragon; Eldest - Christopher Paolini.jpg",
     "x/Images/bookCovers/Eragon - Christopher Paolini.jpg",
@@ -534,6 +584,12 @@
     "x/Images/bookCovers/Harry Potter and the Deathly Hallows - JK Rowling.jpg",
     "/Harry Potter and the Deathly Hallows - JK Rowling.jpg",
     "/Harry Potter and the Prisoner of Azkaban - J K Rowling.jpg",
+<<<<<<< HEAD
+=======
+    "x/Bases/PROJECTS.base",
+    "x/Bases",
+    "Atlas/Dots/Collections/People",
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
     "Untitled.canvas"
   ]
 }

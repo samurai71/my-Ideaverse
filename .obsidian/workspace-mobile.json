@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "5be4df2e74e31345",
         "type": "tabs",
         "children": [
           {
             "id": "d81e07fa7241d0bc",
+=======
+        "id": "4f88020e23495151",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b8c6b5500ef926c",
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -168,6 +176,7 @@
           "icon": "lucide-ghost",
           "title": "todo"
         }
+<<<<<<< HEAD
       },
       {
         "id": "58c433a5a3027a75",
@@ -178,6 +187,8 @@
           "icon": "checkmark",
           "title": "Todo List"
         }
+=======
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
       }
     ],
     "currentTab": 0
@@ -190,6 +201,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+<<<<<<< HEAD
       "bases:Create new base": false,
       "periodic-notes:Open today's daily note": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
@@ -233,4 +245,11 @@
     "Atlas/Dots/MOCs/Books.md",
     "Atlas/Dots/MOCs/Movies.md"
   ]
+=======
+      "bases:Create new base": false
+    }
+  },
+  "active": "1b8c6b5500ef926c",
+  "lastOpenFiles": []
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
 }

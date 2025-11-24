@@ -33,6 +33,10 @@ premiere: 18/12/2015
 watched: true
 lastWatched: ""
 personalRating: 0
-tags: mediaDB/tv/movie
+tags:
+  - mediaDB/tv/movie
 own: true
+in:
+  - Collections
+  - Movies
 ---

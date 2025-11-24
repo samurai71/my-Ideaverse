@@ -7,4 +7,4 @@ in:
   - Books
 ---
 # Books I own
-![[Books.base]]
+![[Books.base#Books Owned]]

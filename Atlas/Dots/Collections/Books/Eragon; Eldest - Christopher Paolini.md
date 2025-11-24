@@ -17,4 +17,7 @@ isbn10: 375842403
 isbn13: 9780375842405
 localCoverImage: x/Images/bookCovers/Eragon; Eldest - Christopher Paolini.jpg
 owned: true
+in:
+  - Collections
+  - Books
 ---

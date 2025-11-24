@@ -37,7 +37,11 @@ premiere: 27/06/2014
 watched: true
 lastWatched: ""
 personalRating: 0
-tags: mediaDB/tv/movie
+tags:
+  - mediaDB/tv/movie
 own: true
+in:
+  - Collections
+  - Movies
 ---
 ## Notes on Movie

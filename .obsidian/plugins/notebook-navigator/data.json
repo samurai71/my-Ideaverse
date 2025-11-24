@@ -109,7 +109,10 @@
   "prioritizeColoredFileTags": true,
   "showFileTagsInSlimMode": false,
   "showParentFolder": true,
+<<<<<<< HEAD
   "parentFolderClickRevealsFile": false,
+=======
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
   "showParentFolderColor": true,
   "showFilePreview": true,
   "skipHeadingsInPreview": true,
@@ -301,9 +304,15 @@
   "navigationSeparators": {},
   "recentColors": [],
   "lastShownVersion": "",
+<<<<<<< HEAD
   "latestKnownRelease": "1.8.6",
   "lastAnnouncedRelease": "",
   "lastReleaseCheckAt": 1763988943142,
+=======
+  "latestKnownRelease": "1.8.4",
+  "lastAnnouncedRelease": "1.7.3",
+  "lastReleaseCheckAt": 1763533709430,
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "showTagsAboveFolders": false,

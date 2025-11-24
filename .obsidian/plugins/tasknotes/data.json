@@ -224,5 +224,14 @@
   "enableBases": true,
   "maintainDueDateOffsetInRecurring": false,
   "useFrontmatterMarkdownLinks": false,
+<<<<<<< HEAD
   "lastSeenVersion": "3.25.4"
+=======
+  "lastSeenVersion": "3.25.6",
+  "pomodoroState": {
+    "isRunning": false,
+    "timeRemaining": 1500
+  },
+  "lastPomodoroDate": "2025-11-17"
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
 }

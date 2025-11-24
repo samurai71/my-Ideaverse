@@ -1,13 +1,14 @@
 ---
 title: "sdiebolt/zsh-ssh-agent: A Zsh plugin that starts ssh-agent automatically."
-source: "https://github.com/sdiebolt/zsh-ssh-agent"
+source: https://github.com/sdiebolt/zsh-ssh-agent
 author:
   - "[[sdiebolt]]"
 published:
 created: 2025-07-27
-description: "A Zsh plugin that starts ssh-agent automatically. Contribute to sdiebolt/zsh-ssh-agent development by creating an account on GitHub."
+description: A Zsh plugin that starts ssh-agent automatically. Contribute to sdiebolt/zsh-ssh-agent development by creating an account on GitHub.
 tags:
-  - "clippings"
+  - clippings
+  - source
 ---
 [Skip to content](https://github.com/sdiebolt/#start-of-content)
 

@@ -1,7 +1,7 @@
 ---
 up:
   - "[[Home]]"
-re: My Medical
+related: My Medical
 ---
 - Bees and Wasps
 - Mangos
