@@ -10,15 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "pinned": true,
             "state": {
               "type": "markdown",
@@ -33,7 +24,7 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
@@ -48,25 +39,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a14ab3af8f51b007",
+    "id": "74b6b66a7f7219fa",
     "type": "split",
     "children": [
       {
-        "id": "15b81695b1bc35cf",
+        "id": "95d25d0b0f21f716",
         "type": "tabs",
         "children": [
           {
-            "id": "590db3ceb2e18073",
+            "id": "e851749e4191a7e8",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -78,17 +60,8 @@
             }
           },
           {
-            "id": "50562c4827453ba3",
+            "id": "708e2a78d5334e29",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "search",
               "state": {
@@ -104,36 +77,8 @@
             }
           },
           {
-            "id": "531dc30e0cf428ba",
+            "id": "9e020f6471cf0f26",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook",
-              "title": "Notebook Navigator"
-            }
-          },
-          {
-            "id": "bc0cae89c5d28a9c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "bookmarks",
               "state": {},
@@ -145,34 +90,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 300
   },
   "right": {
-    "id": "7c5e0f2c46210326",
+    "id": "cfbcc59c98fabdde",
     "type": "split",
     "children": [
       {
-        "id": "4aca8034b7d4020f",
+        "id": "ee09978eeb9bc9be",
         "type": "tabs",
         "children": [
           {
-            "id": "315be3243a6e87b4",
+            "id": "f37a7690701bc961",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -180,48 +114,26 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "pinned": true,
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "9d64d0186849f6fa",
+            "id": "a6d5ebe4cf5379b2",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "pinned": true,
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "c6b2a5323f5b880c",
+            "id": "bec1adac045b9320",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -235,17 +147,8 @@
             }
           },
           {
-            "id": "9422d30ebe6daf42",
+            "id": "5af5c852b29c3db7",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "all-properties",
               "state": {
@@ -253,343 +156,84 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
-            "id": "3b3302ccee1db177",
+            "id": "7d0705b32734944e",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "pinned": true,
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline"
             }
           },
           {
-            "id": "38431f8750837ccd",
+            "id": "4f7f07fb61a6086a",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
-            "id": "58dde6cddb04e1ed",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Home.md"
-              },
-              "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "file-properties"
-            }
-          },
-          {
-            "id": "8a7a43b848dc936e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "512c51cbbe1ea447",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "c6bc7c8ca8b1b9fc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-<<<<<<< HEAD
-              "icon": "lucide-ghost",
-              "title": "all-properties"
-=======
-              "icon": "lucide-archive",
-              "title": "All properties"
->>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
-            }
-          },
-          {
-            "id": "e2a2c71dc05d23d7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "6e098066bd1b1db8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "94415bcc6c5eb80e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "calendar",
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "6ed95a918afd7856",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
-      "tasknotes:Open mini calendar": false,
-      "tasknotes:Open advanced calendar": false,
-      "tasknotes:Open task list": false,
-<<<<<<< HEAD
-=======
-      "tasknotes:Open notes": false,
->>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
-      "tasknotes:Open agenda": false,
-      "tasknotes:Open kanban board": false,
-      "tasknotes:Open pomodoro": false,
-      "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false,
-      "bases:Create new base": false,
-      "quickadd:QuickAdd": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today's daily note": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "cmdr:Toggle stacked tabs": false,
-      "callout-manager:Insert Callout": false,
-      "homepage:Open homepage": false,
-      "recipe-view:Toggle recipe view": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "widgets:Add widget": false,
-      "janitor:Janitor: scan vault": false,
-      "obsidian-media-db-plugin:Add new Media DB entry": false,
-      "omnisearch:Omnisearch": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
+      "remotely-secure:Remotely Sync": false,
       "obsidian-book-search-plugin:Create new book note": false,
+      "cmdr:Toggle stacked tabs": false,
+      "homepage:Open homepage": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "quickadd:QuickAdd": false,
       "templater-obsidian:Templater": false,
-      "chatgpt-prompt:Show/Hide ChatGPT": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "notebook-navigator:Notebook Navigator": false,
-<<<<<<< HEAD
-      "remotely-secure:Remotely Sync": false
+      "obsidian42-brat:BRAT": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "e7a7b303c61786dc",
-  "ophidian:layout-settings": {
-    "pane-relief:focus-lock": false
-  },
   "lastOpenFiles": [
-    "my-ideaverse",
+    "Atlas/ZSH Shortcuts for my setup.md",
     "+/Web Accessibility Thoughts.md",
-    "+/Untitled.base",
-    "+/Ideas.md",
     "Home.md",
     "Atlas/PNPM shortcuts for my setup with a plugin.md",
-    "+",
-    "Atlas/Dots/Collections/Books/Brisingr - Christopher Paolini.md",
-    "x/Bases/Recipes.base",
-    "x/Bases/My Medical.base",
-    "x/Bases/Movies.base",
-    "x/Bases/Books.base",
-    "Atlas/Dots/MOCs/Books.md",
-    "Media DB/books/Eragon (2006).md",
-    "Media DB/books",
-    "Media DB",
-    "Atlas/Dots/MOCs/My Medical.md",
-    "Atlas/Dots/Web Development/Github/Github Templates.md",
-    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
-    "Atlas/Dots/Web Development/Policies/Privacy Policy Template (PIFIDA).md",
-    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
-    "TaskNotes/Views/relationships.base",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "Untitled.md",
-    "Atlas/Special/Kid's Info.md",
-    "Untitled Kanban.md",
-    "Atlas/Ideas.md",
-    "x/Templates/Template, Properties, Source (Kit).md",
-    "x/Templates/Template, Properties, Dates Dates Dates (Kit).md",
-    "Clippings/empresslabspnpm.plugin.zsh Plugin for aliases and completions for pnpm package manager 1.md",
-    "Clippings/empresslabspnpm.plugin.zsh Plugin for aliases and completions for pnpm package manager.md",
-    "x/Templates/Template, Recipe.md",
-    "x/Templates/Template, Properties, Daily Note (Kit).md",
-    "Atlas/Dots/Collections/Movies/Star Wars - Episode IV - A New Hope (1977).md",
-    "Atlas/Dots/MOCs/Movies.md",
-    "Atlas/Dots/Collections/Movies/Smokey and the Bandit (1977).md",
-    "x/Images/bookCovers/Inheritance - Christopher Paolini.jpg",
-=======
-      "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false
-    }
-  },
-  "active": "e7a7b303c61786dc",
-  "lastOpenFiles": [
-    "+/PNPM shortcuts for my setup with a plugin.md",
-    "Home.md",
-    "+/ZSH Shortcuts for my setup.md",
-    "Clippings/empresslabspnpm.plugin.zsh Plugin for aliases and completions for pnpm package manager 1.md",
-    "Clippings/empresslabspnpm.plugin.zsh Plugin for aliases and completions for pnpm package manager.md",
-    "Atlas/Dots/MOCs/My Medical.md",
-    "Atlas/Dots/MOCs/People.md",
-    "Clippings/Creating a default community health file.md",
-    "Clippings/The Ideal LinkedIn Banner Size & Best Practices.md",
-    "Clippings/Simple Beef Stroganoff.md",
-    "+/Web Accessibility Thoughts.md",
-    "+/Ideas.md",
-    "README.md",
-    "Atlas/Dots/MOCs/Recipes MOC.md",
-    "Atlas/Dots/Collections/Recipes/Pico de Gallo Recipe.md",
-    "Atlas/Dots/Collections/Recipes/No-Bake Tiramisu Cheesecake.md",
-    "Atlas/Dots/Collections/Recipes/Sangria Sangria Recipe.md",
-    "Atlas/Dots/MOCs/Movies.md",
-    "x/Bases/Movies.base",
-    "Atlas/Dots/Medical Information/Medical Conditions.md",
-    "x/Bases/My Medical.base",
-    "Atlas/Dots/Medical Information/Allergies.md",
-    "x/Bases/Books.base",
-    "Atlas/Dots/Medical Information/Surgeries.md",
-    "Atlas/Dots/Medical Information/Prescriptions.md",
-    "Atlas/Dots/Medical Information/Medical.base",
-    "Atlas/Dots/MOCs/Books.md",
-    "Atlas/Dots/Collections/Books/Harry Potter and the Deathly Hallows - JK Rowling.md",
-    "Atlas/Dots/Collections/Books/Eragon - Christopher Paolini.md",
-    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
-    "x/Bases/Recipes.base",
-    "x/Images/bookCovers/Inheritance - Christopher Paolini.jpg",
-    "+/Untitled.base",
->>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
-    "x/Images/bookCovers/Brisingr - Christopher Paolini.jpg",
-    "x/Images/bookCovers/Eragon; Eldest - Christopher Paolini.jpg",
-    "x/Images/bookCovers/Eragon - Christopher Paolini.jpg",
-    "x/Images/bookCovers/Harry Potter and the Sorcerer's Stone - J K Rowling.jpg",
-    "x/Images/bookCovers/Harry Potter and the Prisoner of Azkaban - J K Rowling.jpg",
-    "x/Images/bookCovers/Harry Potter and the Order of the Phoenix - J K Rowling.jpg",
-    "x/Images/bookCovers/Harry Potter and the Deathly Hallows - JK Rowling.jpg",
-    "/Harry Potter and the Deathly Hallows - JK Rowling.jpg",
-    "/Harry Potter and the Prisoner of Azkaban - J K Rowling.jpg",
-<<<<<<< HEAD
-=======
-    "x/Bases/PROJECTS.base",
-    "x/Bases",
-    "Atlas/Dots/Collections/People",
->>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
-    "Untitled.canvas"
+    "Atlas/Special/Kid's Info.md"
   ]
 }

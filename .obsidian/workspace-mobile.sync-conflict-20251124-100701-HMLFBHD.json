@@ -1,21 +1,29 @@
 {
   "main": {
-    "id": "60555686e7ba743b",
+    "id": "eeafd37b6ff765a3",
     "type": "split",
     "children": [
       {
-        "id": "49796877fc870cbe",
+<<<<<<< HEAD
+        "id": "5be4df2e74e31345",
         "type": "tabs",
         "children": [
           {
-            "id": "7a54d871ffc3fc0e",
+            "id": "d81e07fa7241d0bc",
+=======
+        "id": "4f88020e23495151",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b8c6b5500ef926c",
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -24,7 +32,7 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
@@ -39,11 +47,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "599846fd3dcd8957",
+    "id": "a3f152b4425bc99f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "05e3d67a8444c4c3",
+        "id": "b8c6d9f877aa2cb8",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -56,7 +64,7 @@
         }
       },
       {
-        "id": "3984155994b558d8",
+        "id": "1571b0a6be3a439e",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -73,7 +81,7 @@
         }
       },
       {
-        "id": "521d71679ad3db61",
+        "id": "8dead68f48a637c3",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -88,21 +96,7 @@
         }
       },
       {
-        "id": "c52326c89682a36a",
-        "type": "leaf",
-        "state": {
-          "type": "all-properties",
-          "state": {
-            "sortOrder": "frequency",
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-archive",
-          "title": "All properties"
-        }
-      },
-      {
-        "id": "8745a6218ccaed5a",
+        "id": "591d961f91a87c55",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -115,11 +109,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "060d2092444774ce",
+    "id": "7851e29a17e44244",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "05d2e2617e4476eb",
+        "id": "89cd1eb0f4d106fd",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -137,7 +131,7 @@
         }
       },
       {
-        "id": "1cd7ee34ecff5692",
+        "id": "3f457bb4e0c56e95",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -150,7 +144,7 @@
         }
       },
       {
-        "id": "d6172290e3f4f5ff",
+        "id": "82d8b4a4f8215b4a",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -164,7 +158,28 @@
         }
       },
       {
-        "id": "19e231d942a73d82",
+        "id": "6873e007fbc3e179",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      },
+      {
+        "id": "53e4344bb15a2ab8",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "todo"
+        }
+<<<<<<< HEAD
+      },
+      {
+        "id": "58c433a5a3027a75",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -172,50 +187,69 @@
           "icon": "checkmark",
           "title": "Todo List"
         }
-      },
-      {
-        "id": "395c1cf6f26b3a5b",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
-        }
+=======
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-secure:Remotely Sync": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+<<<<<<< HEAD
       "bases:Create new base": false,
-      "obsidian-book-search-plugin:Create new book note": false,
+      "periodic-notes:Open today's daily note": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "cmdr:Toggle stacked tabs": false,
-      "homepage:Open homepage": false,
-      "obsidian-media-db-plugin:Add new Media DB entry": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "quickadd:QuickAdd": false,
-      "templater-obsidian:Templater": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian42-brat:BRAT": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian42-brat:BRAT": false,
+      "homepage:Open homepage": false,
+      "recipe-view:Toggle recipe view": false,
+      "quickadd:QuickAdd": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "widgets:Add widget": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open notes": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false
     }
   },
-  "active": "7a54d871ffc3fc0e",
+  "active": "d81e07fa7241d0bc",
   "lastOpenFiles": [
-    "Atlas/Dots/MOCs/Recipes MOC.md",
     "Home.md",
-    "+/Ideas.md",
-    "Atlas/Dots/MOCs/Movies.md",
-    "Atlas/Dots/MOCs/Books.md"
+    "Atlas/Dots/Collections/Books/Harry Potter and the Deathly Hallows - JK Rowling.md",
+    "Atlas/Dots/MOCs/Books.md",
+    "Atlas/Dots/MOCs/Movies.md"
   ]
+=======
+      "bases:Create new base": false
+    }
+  },
+  "active": "1b8c6b5500ef926c",
+  "lastOpenFiles": []
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
 }

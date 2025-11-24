@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag: #map  ",
+      "color": {
+        "a": 1,
+        "rgb": 9338339
+      }
+    },
+    {
+      "query": "path:Home.md  ",
+      "color": {
+        "a": 1,
+        "rgb": 14406656
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.90240690677597,
+  "lineSizeMultiplier": 1.84771082235982,
+  "collapse-forces": false,
+  "centerStrength": 0.488777396355955,
+  "repelStrength": 15.3578030102984,
+  "linkStrength": 0.67318017780125,
+  "linkDistance": 203,
+  "scale": 0.23179855607933178,
+  "close": true
+}

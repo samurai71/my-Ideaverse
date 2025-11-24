@@ -8,7 +8,11 @@
   "outgoing-link": true,
   "tag-pane": true,
   "footnotes": false,
+<<<<<<< HEAD
+  "properties": false,
+=======
   "properties": true,
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
   "page-preview": true,
   "daily-notes": true,
   "templates": true,
@@ -17,7 +21,11 @@
   "slash-command": false,
   "editor-status": true,
   "bookmarks": true,
+<<<<<<< HEAD
   "markdown-importer": false,
+=======
+  "markdown-importer": true,
+>>>>>>> 12cf048966b37c2a5215c928d7d10009cbbd69b5
   "zk-prefixer": false,
   "random-note": false,
   "outline": true,
@@ -29,5 +37,5 @@
   "publish": false,
   "sync": false,
   "bases": true,
-  "webviewer": false
+  "webviewer": true
 }
