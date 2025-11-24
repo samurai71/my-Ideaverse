@@ -33,7 +33,7 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
@@ -434,10 +434,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "590db3ceb2e18073",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "+/Ideas.md",
     "Home.md",
+    "+/Ideas.md",
     "Atlas/Dots/MOCs/People.md",
     "Atlas/Dots/MOCs/Recipes MOC.md",
     "Atlas/Dots/Collections/Recipes/No-Bake Tiramisu Cheesecake.md",
