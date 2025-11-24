@@ -121,6 +121,25 @@
               "icon": "notebook",
               "title": "Notebook Navigator"
             }
+          },
+          {
+            "id": "bc0cae89c5d28a9c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       }
@@ -234,8 +253,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
             }
           },
           {
@@ -302,8 +321,8 @@
                 "file": "Home.md"
               },
               "pinned": true,
-              "icon": "lucide-info",
-              "title": "File properties for Home"
+              "icon": "lucide-ghost",
+              "title": "file-properties"
             }
           },
           {
@@ -345,7 +364,30 @@
             }
           },
           {
-            "id": "b14aa39dbbae88f7",
+            "id": "c6bc7c8ca8b1b9fc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "e2a2c71dc05d23d7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -364,7 +406,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       },
       {
         "id": "6e098066bd1b1db8",
@@ -398,6 +440,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
       "bases:Create new base": false,
       "quickadd:QuickAdd": false,
       "switcher:Open quick switcher": false,
@@ -405,8 +456,6 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false,
       "periodic-notes:Open today's daily note": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
@@ -427,61 +476,64 @@
       "omnisearch:Omnisearch": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "templater-obsidian:Templater": false,
-      "markdown-importer:Open format converter": false,
       "chatgpt-prompt:Show/Hide ChatGPT": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "notebook-navigator:Notebook Navigator": false
+      "notebook-navigator:Notebook Navigator": false,
+      "remotely-secure:Remotely Sync": false
     }
   },
   "active": "e7a7b303c61786dc",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
   "lastOpenFiles": [
-    "Home.md",
-    "+/Ideas.md",
-    "Atlas/Dots/MOCs/People.md",
-    "Atlas/Dots/MOCs/Recipes MOC.md",
-    "Atlas/Dots/Collections/Recipes/No-Bake Tiramisu Cheesecake.md",
-    "Atlas/Dots/MOCs/Movies.md",
-    "x/Bases/Movies.base",
-    "Atlas/Dots/MOCs/Books.md",
-    "x/Bases/Books.base",
-    "Atlas/Dots/Collections/Books/Inheritance - Christopher Paolini.md",
-    "x/Images/bookCovers/Inheritance - Christopher Paolini.jpg",
-    "+/Untitled.base",
-    "Atlas/Dots/Collections/Books/Brisingr - Christopher Paolini.md",
-    "x/Images/bookCovers/Brisingr - Christopher Paolini.jpg",
-    "Atlas/Dots/Collections/Books/Eragon; Eldest - Christopher Paolini.md",
-    "x/Images/bookCovers/Eragon; Eldest - Christopher Paolini.jpg",
-    "Atlas/Dots/Collections/Books/Eragon - Christopher Paolini.md",
-    "x/Images/bookCovers/Eragon - Christopher Paolini.jpg",
-    "Atlas/Dots/Collections/Books/Harry Potter and the Deathly Hallows - JK Rowling.md",
+    "my-ideaverse",
     "+/Web Accessibility Thoughts.md",
+    "+/Untitled.base",
+    "+/Ideas.md",
+    "Home.md",
+    "Atlas/PNPM shortcuts for my setup with a plugin.md",
+    "+",
+    "Atlas/Dots/Collections/Books/Brisingr - Christopher Paolini.md",
     "x/Bases/Recipes.base",
-    "Atlas/Dots/Collections/Books/Harry Potter and the Half-Blood Prince - J K Rowling.md",
-    "Atlas/Dots/Collections/Books/Harry Potter and the Order of the Phoenix - J K Rowling.md",
-    "Atlas/Dots/Collections/Books/Harry Potter and the Prisoner of Azkaban - J K Rowling.md",
-    "Atlas/Dots/Collections/Books/Harry Potter and the Sorcerer's Stone - J K Rowling.md",
+    "x/Bases/My Medical.base",
+    "x/Bases/Movies.base",
+    "x/Bases/Books.base",
+    "Atlas/Dots/MOCs/Books.md",
+    "Media DB/books/Eragon (2006).md",
+    "Media DB/books",
+    "Media DB",
+    "Atlas/Dots/MOCs/My Medical.md",
+    "Atlas/Dots/Web Development/Github/Github Templates.md",
+    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
+    "Atlas/Dots/Web Development/Policies/Privacy Policy Template (PIFIDA).md",
+    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "Untitled.md",
+    "Atlas/Special/Kid's Info.md",
+    "Untitled Kanban.md",
+    "Atlas/Ideas.md",
+    "x/Templates/Template, Properties, Source (Kit).md",
+    "x/Templates/Template, Properties, Dates Dates Dates (Kit).md",
+    "Clippings/empresslabspnpm.plugin.zsh Plugin for aliases and completions for pnpm package manager 1.md",
+    "Clippings/empresslabspnpm.plugin.zsh Plugin for aliases and completions for pnpm package manager.md",
+    "x/Templates/Template, Recipe.md",
+    "x/Templates/Template, Properties, Daily Note (Kit).md",
+    "Atlas/Dots/Collections/Movies/Star Wars - Episode IV - A New Hope (1977).md",
+    "Atlas/Dots/MOCs/Movies.md",
+    "Atlas/Dots/Collections/Movies/Smokey and the Bandit (1977).md",
+    "x/Images/bookCovers/Inheritance - Christopher Paolini.jpg",
+    "x/Images/bookCovers/Brisingr - Christopher Paolini.jpg",
+    "x/Images/bookCovers/Eragon; Eldest - Christopher Paolini.jpg",
+    "x/Images/bookCovers/Eragon - Christopher Paolini.jpg",
     "x/Images/bookCovers/Harry Potter and the Sorcerer's Stone - J K Rowling.jpg",
     "x/Images/bookCovers/Harry Potter and the Prisoner of Azkaban - J K Rowling.jpg",
     "x/Images/bookCovers/Harry Potter and the Order of the Phoenix - J K Rowling.jpg",
-    "x/Images/bookCovers",
     "x/Images/bookCovers/Harry Potter and the Deathly Hallows - JK Rowling.jpg",
     "/Harry Potter and the Deathly Hallows - JK Rowling.jpg",
     "/Harry Potter and the Prisoner of Azkaban - J K Rowling.jpg",
-    "Atlas/Dots/Collections/Movies/Transformers (2007).md",
-    "Atlas/Dots/Collections/Movies/Transformers - Dark of the Moon (2011).md",
-    "Atlas/Dots/Collections/Movies/Transformers - Revenge of the Fallen (2009).md",
-    "Atlas/Dots/Collections/Movies/Transformers - Age of Extinction (2014).md",
-    "Atlas/Dots/Collections/Movies/Transformers - The Last Knight (2017).md",
-    "Eragon - Christopher Paolini.md",
-    "Atlas/Dots/Web Development/Github/README md.md",
-    "Atlas/Dots/Web Development/Github/Github Templates.md",
-    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
-    "x/Bases/PROJECTS.base",
-    "x/Bases",
-    "Atlas/Dots/Collections/People",
-    "+/Medical.base",
-    "Atlas/Dots/Sources/zsh stuff",
     "Untitled.canvas"
   ]
 }
