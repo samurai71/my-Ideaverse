@@ -53,7 +53,7 @@ You'll find the full recipe with all the ingredients and measurements, below, bu
 "This is so delicious," raves [chicaD](https://www.allrecipes.com/cook/2494997). "It somehow seems to cancel out the alcohol taste, and there-in is the rub! You could easily drink these in the same quantities as you would regular iced tea. Don't!"
 
 Why Ice Is the Key to Great Cocktails  
-[Quick and Easy Cocktails for Your Home Happy Hour](https://www.allrecipes.com/gallery/quick-home-happy-hour-cocktails/)
+[Quick and Easy Cocktails for Your Home Happy Hour](https://www.allrecipes.com/gallery/quick-[[home]]-happy-hour-cocktails/)
 
 Editorial contributions by
 

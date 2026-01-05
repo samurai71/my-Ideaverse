@@ -209,13 +209,13 @@ alias **topmem**='ps auxf | sort -nr -k 4 | head -10'
 
 # Development Shortcuts
 # Quick HTTP server
-alias **serve**='python3 -m http.server'  
+alias **serve**='python -m http.server'  
 # Pretty print JSON
-alias **jsonpp**='python3 -m json.tool'  
+alias **jsonpp**='python -m json.tool'  
 # URL encode
-alias **urlencode**='python3 -c "import sys, urllib.parse as ul; print(ul.quote_plus(sys.argv[1]))"'  
+alias **urlencode**='python -c "import sys, urllib.parse as ul; print(ul.quote_plus(sys.argv[1]))"'  
 # URL decode
-alias **urldecode**='python3 -c "import sys, urllib.parse as ul; print(ul.unquote_plus(sys.argv[1]))"'  
+alias **urldecode**='python -c "import sys, urllib.parse as ul; print(ul.unquote_plus(sys.argv[1]))"'  
 
 # chezmoi shortcuts
 alias **cms**='chezmoi-sync'

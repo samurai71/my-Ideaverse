@@ -50,9 +50,9 @@ Your launchpad and home base. That's here. That's **home**.
 ## My Medical Information
 [[My Medical]]
 
-
-
-
+## Shell Stuff
+[[ZSH Shortcuts for my setup]]
+[[PNPM shortcuts for my setup with a plugin]]
 
 
 
