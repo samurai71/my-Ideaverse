@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -234,8 +234,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ReadItLater Inbox/Note 2026-01-05 06-10-16.md",
     "Home.md",
+    "Atlas/Dots/Web Development/Policies/Privacy Policy Template (PIFIDA).md",
+    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
+    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
+    "Atlas/Dots/MOCs/My Medical.md",
+    "Atlas/Dots/Medical Information/Medical Conditions.md",
+    "Atlas/Dots/Medical Information/Prescriptions.md",
+    "Atlas/Shell Stuff/ZSH Shortcuts for my setup.md",
+    "Atlas/Shell Stuff/PNPM shortcuts for my setup with a plugin.md",
+    "ReadItLater Inbox/Note 2026-01-05 06-10-16.md",
     "ReadItLater Inbox",
     "+/Web Accessibility Thoughts.md",
     "+/Ideas.md",
@@ -249,8 +257,6 @@
     "Atlas/Dots/MOCs/Recipes MOC.md",
     "Clippings/Dataview in Obsidian A Beginner's Guide.md",
     "Clippings/Creating a default community health file.md",
-    "Atlas/Shell Stuff/ZSH Shortcuts for my setup.md",
-    "Atlas/Shell Stuff/PNPM shortcuts for my setup with a plugin.md",
     "Atlas/Special/Kid's Info.md",
     "Atlas/Shell Stuff"
   ]

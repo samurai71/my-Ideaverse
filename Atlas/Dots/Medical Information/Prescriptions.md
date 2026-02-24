@@ -18,3 +18,15 @@ in:
 | Sandoz-Sitagliptin    | 50/1000 MG | Take 1 tablet twice a daily     |    Diabetes     |
 | Teva-Lisdexanfetamine |   40 MG    | Take 1 tablet once daily        |                 |
 | Pantoprazole          |   40  MG   | Take 1 tablet twice daily       |   Acid Reflux   |
+## Low Dose Corection Scale 
+
+
+| Range     | Dosage                |
+| --------- | --------------------- |
+| 4.1 - 10  | No additional insulin |
+| 10.1 - 12 | give 1 unit           |
+| 12.1 - 14 | Give 2 units          |
+| 14.1 - 16 | Give 3 units          |
+| 16.1 - 18 | Give 4 units          |
+| 18.1 - 20 | Give 5 units          |
+| >20       | Give 6 units          |

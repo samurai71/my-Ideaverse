@@ -8,3 +8,7 @@ related:
 - irregular heartbeat
 - ADHD
 - Asperbergers
+- hypertension
+- stroke survivor
+- cancer survivor
+- fibromyalgia
