@@ -44,14 +44,12 @@
     "lucideIconPackType": "native",
     "useInternalPlugins": false
   },
-  "Atlas/Dots/Collections": "🌎",
-  "Atlas/Dots/Web Development": "🕸",
-  "Atlas/Dots/Web Development/Github": "LiGithub",
-  "Atlas/Dots/Web Development/Checklists": "LiCheckSquare2",
-  "Atlas/Dots/Collections/Movies": "🎞",
-  "Atlas/Dots/Collections/Books": "📚",
-  "Atlas/Dots/Collections/Recipes": "🍳",
-  "Atlas/Dots/Medical Information": "⚕",
-  "Atlas/Dots/MOCs/People.md": "🫂",
-  "Atlas/Dots/Collections/People": "🫂"
+  "Collections": "🌎",
+  "Collections/Books": "📚",
+  "Collections/Movies": "🎞",
+  "Collections/Recipes": "🍳",
+  "Medical Information": "⚕",
+  "Web Development": "🕸",
+  "Web Development/Checklists": "LiCheckSquare2",
+  "Web Development/Github": "LiGithub"
 }

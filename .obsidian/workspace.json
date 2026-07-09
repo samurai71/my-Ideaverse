@@ -25,7 +25,7 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": true,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "pinned": true,
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.50418853759766
   },
   "right": {
     "id": "cfbcc59c98fabdde",
@@ -231,9 +231,29 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "90a4401678054cb9",
+            "type": "leaf",
+            "state": {
+              "type": "syncthing-view",
+              "state": {},
+              "icon": "refresh-cw",
+              "title": "Syncthing controller"
+            }
+          },
+          {
+            "id": "aaa7aa3f12e4e92f",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -269,41 +289,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e851749e4191a7e8",
   "lastOpenFiles": [
+    "Shell Stuff/PNPM shortcuts for my setup with a plugin.md",
     "Home.md",
-    "Atlas/Special/Kid's Info.md",
-    "Atlas/Dots/MOCs/People.md",
-    "Atlas/Dots/MOCs/My Medical.md",
-    "Atlas/Dots/MOCs/Movies.md",
-    "Atlas/Dots/MOCs/Books.md",
-    "ReadItLater Inbox/Note 2026-05-16 02-08-38.md",
-    "README.md",
-    "x/Templates/Template, Recipe.md",
-    "x/Templates/Template, Properties, Daily Note (Kit).md",
-    "x/Templates/Template, Movie.md",
-    "x/Templates/Nick Milo's Custom Callouts.md",
-    "Atlas/Dots/Collections/Movies/Harry Potter and the Forbidden Journey (2010).md",
-    "Atlas/Dots/Collections/Movies/Star Wars - Episode VI - Return of the Jedi (1983).md",
-    "Atlas/Dots/Collections/Movies/Smokey and the Bandit Part 3 (1983).md",
-    "Atlas/Dots/Collections/Movies/Star Wars - Episode V - The Empire Strikes Back (1980).md",
-    "Atlas/Dots/Collections/Movies/Smokey and the Bandit II (1980).md",
-    "Atlas/Dots/Collections/Movies/Star Wars - Episode IV - A New Hope (1977).md",
-    "Atlas/Dots/Collections/Movies/Smokey and the Bandit (1977).md",
-    "Atlas/Dots/Collections/Books/Harry Potter and the Deathly Hallows - JK Rowling.md",
-    "Atlas/Dots/Collections/Books/Eragon; Eldest - Christopher Paolini.md",
-    "x/Bases/Books.base",
-    "Atlas/Dots/Collections/Books/Eragon - Christopher Paolini.md",
-    "Atlas/Dots/Collections/Books/Brisingr - Christopher Paolini.md",
-    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
-    "+/Ideas.md",
-    "Atlas/Dots/Medical Information/Allergies.md",
+    "MOCs/My Medical.md",
+    "Medical Information/Medical Conditions.md",
+    "MOCs/Books.md",
+    "MOCs/Movies.md",
+    "Bases/Movies.base",
+    "Bases/Books.base",
+    "Collections/Books/Inheritance - Christopher Paolini.md",
+    "Collections/Books/Harry Potter and the Sorcerer's Stone - J K Rowling.md",
+    "Collections/Books/Harry Potter and the Prisoner of Azkaban - J K Rowling.md",
+    "Collections/Books/Harry Potter and the Order of the Phoenix - J K Rowling.md",
+    "Collections/Books/Harry Potter and the Half-Blood Prince - J K Rowling.md",
+    "Collections/Books/Harry Potter and the Deathly Hallows - JK Rowling.md",
+    "Collections/Books/Eragon; Eldest - Christopher Paolini.md",
+    "Collections/Books/Eragon - Christopher Paolini.md",
+    "Images/bookCovers/Eragon; Eldest - Christopher Paolini.jpg",
+    "Collections/Books/Brisingr - Christopher Paolini.md",
+    "Templates/Template, Movie.md",
+    "Collections/Recipes/No-Bake Tiramisu Cheesecake.md",
+    "Bases/Recipes.base",
+    "Bases/My Medical.base",
+    "Web Development/Github/Github Templates.md",
+    "Web Development/Policies/Policy Templates.md",
+    "Web Development/Checklists/Checklist's Template.md",
+    "Collections/Recipes/Untitled.md",
+    "MOCs/Recipes MOC.md",
+    "test.base",
+    "Collections/Movies/Blade - Trinity (2004).md",
+    "Templates/Template, Recipe.md",
+    "Untitled.base",
+    "Images/bookCovers/Brisingr - Christopher Paolini.jpg",
+    "Collections/Movies/Smokey and the Bandit (1977).md",
+    "Images/pexels-rfera-2286895.jpg",
+    "Medical Information/Prescriptions.md",
     "ReadItLater Inbox",
-    "x/Bases/Recipes.base",
-    "x/Bases/My Medical.base",
-    "x/Bases/Movies.base",
     "+/Read Later",
-    "x/Images/pexels-rfera-2286895.jpg",
-    "Atlas/Shell Stuff"
+    "Shell Stuff"
   ]
 }

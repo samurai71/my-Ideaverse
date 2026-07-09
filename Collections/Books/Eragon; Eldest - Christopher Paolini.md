@@ -15,7 +15,7 @@ link: https://books.google.com/books/about/Eragon_Eldest.html?hl=&id=Hr55PgAACAA
 previewLink: http://books.google.ca/books?id=Hr55PgAACAAJ&dq=Eragon&hl=&as_pt=BOOKS&cd=10&source=gbs_api
 isbn10: 375842403
 isbn13: 9780375842405
-localCoverImage: x/Images/bookCovers/Eragon; Eldest - Christopher Paolini.jpg
+localCoverImage: Images/bookCovers/Eragon; Eldest - Christopher Paolini.jpg
 owned: true
 in:
   - Collections

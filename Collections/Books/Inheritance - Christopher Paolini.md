@@ -15,7 +15,7 @@ link: https://books.google.com/books/about/Inheritance.html?hl=&id=dcyOEAAAQBAJ
 previewLink: http://books.google.ca/books?id=dcyOEAAAQBAJ&dq=Eragon+Inheritance&hl=&as_pt=BOOKS&cd=3&source=gbs_api
 isbn13: 9780739372487
 isbn10: 739372483
-localCoverImage: x/Images/bookCovers/Inheritance - Christopher Paolini.jpg
+localCoverImage: Images/bookCovers/Inheritance - Christopher Paolini.jpg
 owned: true
 in:
   - Collections

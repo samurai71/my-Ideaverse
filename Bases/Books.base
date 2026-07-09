@@ -1,15 +1,26 @@
 filters:
   and:
-    - file.folder == "Atlas/Dots/Collections/Books"
+    - file.folder == "Collections/Books"
 views:
   - type: cards
     name: All Books
+    filters:
+      and:
+        - file.inFolder("Collections")
+    groupBy:
+      property: title
+      direction: ASC
     order:
       - file.name
       - author
       - description
       - publishDate
       - totalPage
+      - file.embeds
+      - file.links
+    sort:
+      - property: title
+        direction: ASC
     image: note.localCoverImage
     imageFit: contain
     cardSize: 190
@@ -27,3 +38,5 @@ views:
     image: note.localCoverImage
     imageFit: contain
     cardSize: 190
+  - type: table
+    name: View

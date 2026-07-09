@@ -15,6 +15,6 @@ link: https://books.google.com/books/about/Eragon.html?hl=&id=OFPREAAAQBAJ
 previewLink: http://books.google.ca/books?id=OFPREAAAQBAJ&dq=Eragon&hl=&as_pt=BOOKS&cd=2&source=gbs_api
 isbn13: 9780241684252
 isbn10: 241684250
-localCoverImage: x/Images/bookCovers/Eragon - Christopher Paolini.jpg
+localCoverImage: Images/bookCovers/Eragon - Christopher Paolini.jpg
 owned: true
 ---

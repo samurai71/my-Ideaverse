@@ -15,7 +15,7 @@ link: https://books.google.com/books/about/Harry_Potter_and_the_Half_Blood_Princ
 previewLink: http://books.google.ca/books?id=wSuqtAEACAAJ&dq=Harry+Potter&hl=&as_pt=BOOKS&cd=7&source=gbs_api
 isbn10: 1338299190
 isbn13: 9781338299199
-localCoverImage: x/Images/bookCovers/Harry Potter and the Half-Blood Prince - J K Rowling.jpg
+localCoverImage: Images/bookCovers/Harry Potter and the Half-Blood Prince - J K Rowling.jpg
 owned: true
 in:
   - Collections

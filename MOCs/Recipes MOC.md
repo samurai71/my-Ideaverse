@@ -19,8 +19,8 @@ id: ""
 hidden: false
 actions:
   - type: templaterCreateNote
-    templateFile: x/Templates/Template, Recipe.md
-    folderPath: Atlas/Dots/Collections/Recipes
+    templateFile: Templates/Template, Recipe.md
+    folderPath: Collections/Recipes
     fileName: ""
     openNote: true
     openIfAlreadyExists: false

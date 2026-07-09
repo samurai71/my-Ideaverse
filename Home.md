@@ -30,7 +30,7 @@ Your launchpad and home base. That's here. That's **home**.
 > [[Books]]
 >  [[Movies]] 
 >  [[Recipes MOC]] 
->  [[People]]
+
 
 
 ## Web Development

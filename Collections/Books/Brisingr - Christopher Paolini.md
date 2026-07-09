@@ -15,7 +15,7 @@ link: https://books.google.com/books/about/Brisingr.html?hl=&id=EZqODQAAQBAJ
 previewLink: http://books.google.ca/books?id=EZqODQAAQBAJ&printsec=frontcover&dq=Eragon&hl=&as_pt=BOOKS&cd=7&source=gbs_api
 isbn13: 9780375826740
 isbn10: 375826742
-localCoverImage: x/Images/bookCovers/Brisingr - Christopher Paolini.jpg
+localCoverImage: Images/bookCovers/Brisingr - Christopher Paolini.jpg
 owned: true
 in:
   - Collections

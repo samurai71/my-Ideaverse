@@ -16,3 +16,4 @@ related:
 - stroke survivor
 - cancer survivor
 - fibromyalgia
+- Hearing impaired uses hearing aids

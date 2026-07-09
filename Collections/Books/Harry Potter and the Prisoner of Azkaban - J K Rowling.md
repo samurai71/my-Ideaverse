@@ -15,7 +15,7 @@ link: https://books.google.com/books/about/Harry_Potter_and_the_Prisoner_of_Azka
 previewLink: http://books.google.ca/books?id=nfRhQgAACAAJ&dq=Harry+Potter&hl=&as_pt=BOOKS&cd=28&source=gbs_api
 isbn10: 747546290
 isbn13: 9780747546290
-localCoverImage: x/Images/bookCovers/Harry Potter and the Prisoner of Azkaban - J K Rowling.jpg
+localCoverImage: Images/bookCovers/Harry Potter and the Prisoner of Azkaban - J K Rowling.jpg
 owned: true
 in:
   - Collections

@@ -15,6 +15,6 @@ link: https://books.google.com/books/about/Harry_Potter_and_the_Sorcerer_s_Stone
 previewLink: http://books.google.ca/books?id=mSwvswEACAAJ&dq=Harry+Porter&hl=&as_pt=BOOKS&cd=1&source=gbs_api
 isbn10: 1484465474
 isbn13: 9781484465479
-localCoverImage: x/Images/bookCovers/Harry Potter and the Sorcerer's Stone - J K Rowling.jpg
+localCoverImage: Images/bookCovers/Harry Potter and the Sorcerer's Stone - J K Rowling.jpg
 owned: true
 ---

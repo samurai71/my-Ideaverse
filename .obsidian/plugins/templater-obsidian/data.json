@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "x/Templates",
+  "templates_folder": "Templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Atlas/Dots/Collections/Movies",
-      "template": "x/Templates/Template, Movie.md"
+      "folder": "Collections/Movies",
+      "template": "Templates/Template, Movie.md"
     }
   ],
   "enable_file_templates": false,
@@ -34,5 +34,10 @@
   "startup_templates": [
     ""
   ],
-  "intellisense_render": 1
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": [
+    {
+      "folder": ""
+    }
+  ]
 }

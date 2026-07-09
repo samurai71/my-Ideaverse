@@ -15,6 +15,6 @@ link: https://play.google.com/store/books/details?id=gCtazG4ZXlQC
 previewLink: http://books.google.ca/books?id=gCtazG4ZXlQC&printsec=frontcover&dq=Harry+Potter&hl=&as_pt=BOOKS&cd=30&source=gbs_api
 isbn13: 9781781100264
 isbn10: 1781100268
-localCoverImage: x/Images/bookCovers/Harry Potter and the Deathly Hallows - JK Rowling.jpg
+localCoverImage: Images/bookCovers/Harry Potter and the Deathly Hallows - JK Rowling.jpg
 owned: true
 ---

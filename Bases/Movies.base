@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder == "Atlas/Dots/Collections/Movies"
+    - file.folder == "Collections/Movies"
 views:
   - type: cards
     name: All Movies

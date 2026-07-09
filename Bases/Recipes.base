@@ -1,8 +1,8 @@
 filters:
   and:
-    - file.folder == "Atlas/Dots/Collections/Recipes"
+    - file.folder == "Collections/Recipes"
 views:
-  - type: table
+  - type: list
     name: Table
     order:
       - file.name
@@ -12,3 +12,4 @@ views:
     columnSize:
       note.description: 178
       note.source: 511
+    indentProperties: true
