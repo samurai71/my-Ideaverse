@@ -17,7 +17,6 @@ onlineRating:
 actors:
 image:
 released:
-streamingServices:
 premiere:
 watched:
 lastWatched:
@@ -25,5 +24,6 @@ personalRating:
 own:
 up:
   - "[[Home]]"
+  - Movies
 ---
 ## Notes on Movie

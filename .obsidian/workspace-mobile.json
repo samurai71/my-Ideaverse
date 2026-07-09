@@ -1,14 +1,196 @@
 {
   "main": {
-    "id": "60555686e7ba743b",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "49796877fc870cbe",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "7a54d871ffc3fc0e",
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "454e8bdcaa821e11",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "ae2c748c697a1567",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "665040871424e437",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "5c6b63647af38286",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "6853eba338588203",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "d38d3bba14ea250e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "2f68431e845a7e39",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -33,7 +215,8 @@
               "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -124,6 +307,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Atlas/Dots/MOCs/My Medical.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,8 +353,8 @@
         "state": {
           "type": "todo",
           "state": {},
-          "icon": "checkmark",
-          "title": "Todo List"
+          "icon": "lucide-ghost",
+          "title": "todo"
         }
       },
       {
@@ -179,8 +363,18 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      },
+      {
+        "id": "9234c38f83fff734",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
         }
       }
     ],
@@ -188,7 +382,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-secure:Remotely Sync": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -196,6 +390,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "remotely-secure:Remotely Sync": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "cmdr:Toggle stacked tabs": false,
       "homepage:Open homepage": false,
@@ -204,18 +399,30 @@
       "omnisearch:Omnisearch": false,
       "quickadd:QuickAdd": false,
       "templater-obsidian:Templater": false,
-      "audio-recorder:Start/stop recording": false,
       "obsidian42-brat:BRAT": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "syncthing-manager:Open Syncthing manager": false
     }
   },
-  "active": "7a54d871ffc3fc0e",
+  "active": "2f68431e845a7e39",
   "lastOpenFiles": [
-    "Atlas/Dots/MOCs/Recipes MOC.md",
+    "Atlas/Dots/Medical Information/Allergies.md",
     "Home.md",
-    "+/Ideas.md",
+    "Atlas/Shell Stuff/ZSH Shortcuts for my setup.md",
+    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
+    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
+    "Atlas/Dots/Web Development/Policies/Privacy Policy Template (PIFIDA).md",
+    "Atlas/Dots/Web Development/Github/Github Templates.md",
+    "Atlas/Dots/MOCs/Recipes MOC.md",
+    "Atlas/Dots/Collections/Recipes/Pico de Gallo Recipe.md",
     "Atlas/Dots/MOCs/Movies.md",
+    "Atlas/Dots/MOCs/My Medical.md",
+    "+/Ideas.md",
     "Atlas/Dots/MOCs/Books.md"
   ]
 }

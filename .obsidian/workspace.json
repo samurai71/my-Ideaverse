@@ -25,7 +25,7 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "pinned": true,
@@ -163,7 +163,6 @@
           {
             "id": "7d0705b32734944e",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "outline",
               "state": {
@@ -172,7 +171,6 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "pinned": true,
               "icon": "lucide-list",
               "title": "Outline of Home"
             }
@@ -188,6 +186,43 @@
             }
           },
           {
+            "id": "7a396af08034d920",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Home.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Home"
+            }
+          },
+          {
             "id": "6ed95a918afd7856",
             "type": "leaf",
             "state": {
@@ -198,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -213,11 +248,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "bases:Create new base": false,
       "remotely-secure:Remotely Sync": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "cmdr:Toggle stacked tabs": false,
       "homepage:Open homepage": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
@@ -229,35 +262,48 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "janitor:Janitor: scan vault": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "chatgpt-prompt:Show/Hide ChatGPT": false,
+      "cmdr:Toggle stacked tabs": false,
+      "syncthing-manager:Open Syncthing manager": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Atlas/Dots/MOCs/My Medical.md",
     "Home.md",
-    "Atlas/Dots/Medical Information/Prescriptions.md",
-    "Atlas/Dots/Web Development/Policies/Privacy Policy Template (PIFIDA).md",
-    "Atlas/Dots/Web Development/Policies/Policy Templates.md",
-    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
-    "Atlas/Dots/Medical Information/Medical Conditions.md",
-    "Atlas/Shell Stuff/ZSH Shortcuts for my setup.md",
-    "Atlas/Shell Stuff/PNPM shortcuts for my setup with a plugin.md",
-    "ReadItLater Inbox/Note 2026-01-05 06-10-16.md",
-    "ReadItLater Inbox",
-    "+/Web Accessibility Thoughts.md",
-    "+/Ideas.md",
-    "+/Read Later",
-    "README.md",
-    "x/Images/pexels-rfera-2286895.jpg",
-    "Clippings/Simple Beef Stroganoff.md",
-    "Atlas/Dots/Sources/zsh stuff/empresslabspnpm.plugin.zsh Plugin for aliases and completions for pnpm package manager 1.md",
-    "Clippings/empresslabspnpm.plugin.zsh Plugin for aliases and completions for pnpm package manager.md",
-    "Atlas/Dots/Sources/zsh stuff/Plugin for aliases and completions for pnpm package manager.md",
-    "Atlas/Dots/MOCs/Recipes MOC.md",
-    "Clippings/Dataview in Obsidian A Beginner's Guide.md",
-    "Clippings/Creating a default community health file.md",
     "Atlas/Special/Kid's Info.md",
+    "Atlas/Dots/MOCs/People.md",
+    "Atlas/Dots/MOCs/My Medical.md",
+    "Atlas/Dots/MOCs/Movies.md",
+    "Atlas/Dots/MOCs/Books.md",
+    "ReadItLater Inbox/Note 2026-05-16 02-08-38.md",
+    "README.md",
+    "x/Templates/Template, Recipe.md",
+    "x/Templates/Template, Properties, Daily Note (Kit).md",
+    "x/Templates/Template, Movie.md",
+    "x/Templates/Nick Milo's Custom Callouts.md",
+    "Atlas/Dots/Collections/Movies/Harry Potter and the Forbidden Journey (2010).md",
+    "Atlas/Dots/Collections/Movies/Star Wars - Episode VI - Return of the Jedi (1983).md",
+    "Atlas/Dots/Collections/Movies/Smokey and the Bandit Part 3 (1983).md",
+    "Atlas/Dots/Collections/Movies/Star Wars - Episode V - The Empire Strikes Back (1980).md",
+    "Atlas/Dots/Collections/Movies/Smokey and the Bandit II (1980).md",
+    "Atlas/Dots/Collections/Movies/Star Wars - Episode IV - A New Hope (1977).md",
+    "Atlas/Dots/Collections/Movies/Smokey and the Bandit (1977).md",
+    "Atlas/Dots/Collections/Books/Harry Potter and the Deathly Hallows - JK Rowling.md",
+    "Atlas/Dots/Collections/Books/Eragon; Eldest - Christopher Paolini.md",
+    "x/Bases/Books.base",
+    "Atlas/Dots/Collections/Books/Eragon - Christopher Paolini.md",
+    "Atlas/Dots/Collections/Books/Brisingr - Christopher Paolini.md",
+    "Atlas/Dots/Web Development/Checklists/Checklist's Template.md",
+    "+/Ideas.md",
+    "Atlas/Dots/Medical Information/Allergies.md",
+    "ReadItLater Inbox",
+    "x/Bases/Recipes.base",
+    "x/Bases/My Medical.base",
+    "x/Bases/Movies.base",
+    "+/Read Later",
+    "x/Images/pexels-rfera-2286895.jpg",
     "Atlas/Shell Stuff"
   ]
 }

@@ -1,7 +1,12 @@
 ---
 up:
   - "[[Home]]"
-rela: My Medical
+related:
+  - My Medical
+  - Allergies 
+  - Medical Information 
+  - Surgeries
+  - Prescriptions 
 tags:
 in:
   - Medical

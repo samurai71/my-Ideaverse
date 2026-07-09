@@ -36,9 +36,13 @@
   "insert-unsplash-image",
   "janitor",
   "obsidian-kanban",
-  "link-favicon",
   "obsidian-linter",
   "obsidian-list-callouts",
   "obsidian-plugin-update-tracker",
-  "obsidian-read-it-later"
+  "obsidian-read-it-later",
+  "obsidian-pandoc",
+  "chatgpt-prompt",
+  "obsidian-plugin-toc",
+  "tag-wrangler",
+  "syncthing-manager"
 ]

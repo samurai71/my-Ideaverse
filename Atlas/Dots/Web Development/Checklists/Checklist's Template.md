@@ -1,7 +1,10 @@
 ---
 up:
   - "[[Home]]"
-related: []
+related:
+  - Web Development
+  - Github
+  - Policies
 year:
 encountered:
 tags:

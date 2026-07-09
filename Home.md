@@ -1,6 +1,5 @@
 ---
 obsidianUIMode: preview
-in:
 banner: "![[pexels-rfera-2286895.jpg]]"
 banner_y: 0.48388
 ---
@@ -9,7 +8,7 @@ Your launchpad and home base. That's here. That's **home**.
 
  # Recent Thoughts or Notes
 
-> [!activity]+ ## Added Stuff
+> [!activity]- ## Added Stuff
 > This view looks at the 10 newest notes in your **+** folder. As you process each note: add a link, add details, move them to the best folder, and delete everything that no longer sparks ✨.
 >
 > ```dataview
@@ -32,13 +31,6 @@ Your launchpad and home base. That's here. That's **home**.
 >  [[Movies]] 
 >  [[Recipes MOC]] 
 >  [[People]]
-
-## Dev.to Blog
-
-[[Ideas]]
-[[Articles]]
-	- [[Read]]
-	- [[Create New Article]]
 
 
 ## Web Development

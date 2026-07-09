@@ -15,27 +15,27 @@ related:
 
 <h3>1. Information We Collect</h3>
 
-    <p>Personal Information: We may collect personal information, including but not limited to, your name, email address, postal address, and phone number when you provide it voluntarily.</p>
+**Personal Information:** We may collect personal information, including but not limited to, your name, email address, postal address, and phone number when you provide it voluntarily.
 
-    <p>Usage Data: We collect information about how you use our website, such as your IP address, browser type, and operating system.</p>
+**Usage Data:** We collect information about how you use our website, such as your IP address, browser type, and operating system.
 
 <h3>2. How We Use Your Information</h3>
 
 <p>We use the collected information for the following purposes:</p>
 
-    <p>To provide you with the products or services you request.
-    To improve and optimize our website.
-    To communicate with you, respond to inquiries, and provide customer support.
-    To send newsletters or marketing materials if you have consented to receive them.
-    To comply with legal obligations, including those outlined in the **Personal Information Protection and Electronic Documents Act** (*PIPEDA*).</p>
+To provide you with the products or services you request.
+    - To improve and optimize our website.
+    - To communicate with you, respond to inquiries, and provide customer support.
+    - To send newsletters or marketing materials if you have consented to receive them.
+    - To comply with legal obligations, including those outlined in the **Personal Information Protection and Electronic Documents Act** (*PIPEDA*).
 
 <h3>3. Sharing Your Information</h3>
 
 <p>We may share your personal information in the following circumstances:</p>
 
-    <p>With service providers who help us operate our website.
+With service providers who help us operate our website.
     With your explicit consent.
-    In response to legal requests or to protect our rights.</p>
+    In response to legal requests or to protect our rights.
 
 <h3>4. Cookies and Tracking Technologies</h3>
 

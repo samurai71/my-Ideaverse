@@ -44,10 +44,6 @@
     "lucideIconPackType": "native",
     "useInternalPlugins": false
   },
-  "Efforts/Ongoing": "♻",
-  "Efforts/On": "🔥",
-  "Efforts/Simmering": "〰",
-  "Efforts/Sleeping": "💤",
   "Atlas/Dots/Collections": "🌎",
   "Atlas/Dots/Web Development": "🕸",
   "Atlas/Dots/Web Development/Github": "LiGithub",
@@ -55,9 +51,6 @@
   "Atlas/Dots/Collections/Movies": "🎞",
   "Atlas/Dots/Collections/Books": "📚",
   "Atlas/Dots/Collections/Recipes": "🍳",
-  "Atlas/Dots/Dev.to Blog/Articles": "LiWaves",
-  "Atlas/Dots/Dev.to Blog/Ideas": "💡",
-  "Atlas/Dots/MOCs/My Medical.md": "⚕",
   "Atlas/Dots/Medical Information": "⚕",
   "Atlas/Dots/MOCs/People.md": "🫂",
   "Atlas/Dots/Collections/People": "🫂"

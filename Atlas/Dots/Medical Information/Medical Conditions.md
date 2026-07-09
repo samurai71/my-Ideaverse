@@ -3,6 +3,10 @@ up:
   - "[[Home]]"
 related:
   - My Medical
+  - Allergies 
+  - Medical Information 
+  - Prescriptions 
+  - Surgeries
 ---
 - Type 2 diabetic
 - irregular heartbeat

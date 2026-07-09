@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: gqaur-qtbof
+created: 2026-07-04T00:51:31-04:00

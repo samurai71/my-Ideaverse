@@ -37,4 +37,7 @@ own: true
 in:
   - Collections
   - Movies
+up:
+  - "[[Home]]"
+  - Movies
 ---
