@@ -1,9 +1,14 @@
 filters:
   and:
-    - file.folder == "Atlas/Dots/Medical Information"
+    - file.folder == "Medical Information"
 views:
   - type: table
     name: Table
     order:
       - file.name
+      - file.tags
+      - in
+      - related
+      - tags
+      - up
     sort: []

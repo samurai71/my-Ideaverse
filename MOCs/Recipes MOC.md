@@ -29,6 +29,6 @@ actions:
 
 ```dataview
 LIST
-FROM "Atlas/Dots/Collections/Recipes"
+FROM "Collections/Recipes"
 Limit 10
 ```
