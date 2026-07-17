@@ -3,6 +3,9 @@ up:
   - "[[Home]]"
 related:
   - Recipes
+  - Collections
+  - Books
+  - Movies
 in:
   - Collections
   - Recipes

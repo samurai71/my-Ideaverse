@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📁",
+      "LiDatabase",
+      "🖼",
       "🫂",
       "⚕",
       "💡",
@@ -17,10 +20,7 @@
       "🕸",
       "🌎",
       "LiHome",
-      "〰",
-      "LiStopCircle",
-      "LiWaves",
-      "🌊"
+      "〰"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -51,5 +51,9 @@
   "Medical Information": "⚕",
   "Web Development": "🕸",
   "Web Development/Checklists": "LiCheckSquare2",
-  "Web Development/Github": "LiGithub"
+  "Web Development/Github": "LiGithub",
+  "MOCs/Web Development MOC.md": "LiGithub",
+  "Images": "🖼",
+  "Bases": "LiDatabase",
+  "MOCs": "📁"
 }

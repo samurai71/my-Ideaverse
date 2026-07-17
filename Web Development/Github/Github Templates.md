@@ -4,8 +4,13 @@ related:
   - Web Development
   - Github
 tags:
+  - Github
+  - web
+  - development
 up:
   - "[[Home]]"
+in:
+  - Web Development
 ---
 [[LICENSE MD]]
 [[README md]]
