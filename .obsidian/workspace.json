@@ -53,7 +53,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -291,27 +293,29 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "MOCs/My Medical.md",
-    "Home.md",
-    "MOCs/Recipes MOC.md",
     "MOCs/Collections MOC.md",
-    "MOCs/Books.md",
+    "MOCs/Movies.md",
+    "Bases/Movies.base",
+    "Home.md",
+    "Projects",
+    "Bryte Lyfe",
     "Web Development/Github/Github Templates.md",
     "MOCs/Web Development MOC.md",
     "Web Development/Policies/Policy Templates.md",
+    "Web Development/Policies/Privacy Policy Template (PIFIDA).md",
     "Web Development/Checklists/Checklist's Template.md",
+    "MOCs/Recipes MOC.md",
+    "MOCs/Books.md",
+    "MOCs/My Medical.md",
     "Web Development/Github/README md.md",
     "Web Development/Github/LICENSE MD.md",
     "Bases/Recipes.base",
     "Bases/My Medical.base",
-    "Bases/Movies.base",
     "Bases/Books.base",
     "Shell Stuff/PNPM shortcuts for my setup with a plugin.md",
     "Shell Stuff/ZSH Shortcuts for my setup.md",
     "Medical Information/Prescriptions.md",
-    "MOCs/Movies.md",
     "Collections/Movies/Top Gun (1986).md",
-    "Web Development/Policies/Privacy Policy Template (PIFIDA).md",
     "Collections/Movies/Star Wars - Episode VII - The Force Awakens (2015).md",
     "Collections/Recipes/No-Bake Tiramisu Cheesecake.md",
     "Special/Kid's Info.md",
@@ -326,7 +330,6 @@
     "Images/bookCovers/Brisingr - Christopher Paolini.jpg",
     "Images/pexels-rfera-2286895.jpg",
     "ReadItLater Inbox",
-    "+/Read Later",
-    "Shell Stuff"
+    "+/Read Later"
   ]
 }
