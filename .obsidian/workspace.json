@@ -255,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -293,10 +293,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
+    "Home.md",
+    "Medical Information/Prescriptions.md",
+    "Medical Information/A1C Results.md",
+    "MOCs/My Medical.md",
+    "Medical Information/Test Results.md",
+    "Medical Information/Medical Conditions.md",
     "MOCs/Collections MOC.md",
     "MOCs/Movies.md",
     "Bases/Movies.base",
-    "Home.md",
     "Projects",
     "Bryte Lyfe",
     "Web Development/Github/Github Templates.md",
@@ -306,7 +312,6 @@
     "Web Development/Checklists/Checklist's Template.md",
     "MOCs/Recipes MOC.md",
     "MOCs/Books.md",
-    "MOCs/My Medical.md",
     "Web Development/Github/README md.md",
     "Web Development/Github/LICENSE MD.md",
     "Bases/Recipes.base",
@@ -314,16 +319,12 @@
     "Bases/Books.base",
     "Shell Stuff/PNPM shortcuts for my setup with a plugin.md",
     "Shell Stuff/ZSH Shortcuts for my setup.md",
-    "Medical Information/Prescriptions.md",
     "Collections/Movies/Top Gun (1986).md",
     "Collections/Movies/Star Wars - Episode VII - The Force Awakens (2015).md",
     "Collections/Recipes/No-Bake Tiramisu Cheesecake.md",
     "Special/Kid's Info.md",
     "Sources/zsh stuff/Plugin for aliases and completions for pnpm package manager.md",
     "Sources/zsh stuff/Meet Zap, a plugin manager.md",
-    "Sources/zsh stuff/Glyph collections Font Awesome, Material Design Icons, Octicons, & more.md",
-    "Sources/zsh stuff/empresslabspnpm.plugin.zsh Plugin for aliases and completions for pnpm package manager 1.md",
-    "Sources/zsh stuff/A Zsh plugin that starts ssh-agent automatically.md",
     "Images/bookCovers/Eragon; Eldest - Christopher Paolini.jpg",
     "test.base",
     "Untitled.base",

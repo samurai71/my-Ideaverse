@@ -1,0 +1,6 @@
+
+# --- Syncthing Controller Plugin Data ---
+.obsidian/plugins/syncthing-manager/sync-state.json
+.obsidian/plugins/syncthing-manager/sync-state.sync-conflict*
+.obsidian/plugins/syncthing-manager/~syncthing~sync-state.json.tmp
+**/sync-state.json
